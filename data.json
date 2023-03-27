@@ -1,0 +1,62 @@
+[
+  {
+    "title": "FTP Updater",
+    "category": "Desktop Applications",
+    "url": "#",
+    "image": "old/images/imagepratama.jpg"
+  },
+  {
+    "title": "JX Inventory & REST APIs",
+    "category": "System Management",
+    "url": "#",
+    "image": "old/images/imagejxinventory.jpg"
+  },
+  {
+    "title": "Beasiswa Pancakarsa",
+    "category": "System Management",
+    "url": "https://beasiswapancakarsa.bogorkab.go.id/",
+    "image": "old/images/imagedispora.jpg"
+  },
+  {
+    "title": "Sobat Technopreneur (wsmanagement)",
+    "category": "System Management",
+    "url": "https://sobattechnopreneur.com/",
+    "image": "old/images/imagesobat.jpg"
+  },
+  {
+    "title": "Image Analysis Application with Azure Computer Vision",
+    "category": "Website",
+    "url": "http://web.archive.org/web/20191216061749/http://ponwil-sukabumikab.web.id/",
+    "image": "old/images/imageanalist.jpg"
+  },
+  {
+    "title": "Regional Potential Applications with Web GIS",
+    "category": "Website",
+    "url": "http://web.archive.org/web/20191216061749/http://ponwil-sukabumikab.web.id/",
+    "image": "old/images/potensi.jpg"
+  },
+  {
+    "title": "Village Information System Application",
+    "category": "Website",
+    "url": "https://sidsaiagi.azurewebsites.net/",
+    "image": "old/images/sid.jpg"
+  },
+  {
+    "title": "Design and Build Computer Networks of PT. Sumber Wahana Sejati",
+    "category": "Website Prototype",
+    "url": "https://github.com/mohamadsyalvasr/helpdesk",
+    "image": "old/images/helpdesk2.jpg"
+  },
+  {
+    "title": "Digital Book Logo",
+    "category": "Branding",
+    "url": "#",
+    "image": "old/images/DigitalBookLogo.jpg"
+  },
+  {
+    "title": "Apparel Generasi Muda Membangun Bangsa",
+    "category": "Branding",
+    "url": "#",
+    "image": "old/images/hoodiedesign.jpg"
+  }
+]
