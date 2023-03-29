@@ -27,6 +27,33 @@
     "issued": "Alibaba Cloud"
   },
   {
+    "title": "Azure Fundamentals: Describe Azure management and governance",
+    "category": "learning",
+    "type": "cloud",
+    "url": "https://learn.microsoft.com/en-us/users/mohamadsyalvasr/",
+    "image": "https://learn.microsoft.com/en-us/training/achievements/describe-azure-management-governance.svg",
+    "description": "",
+    "issued": "Microsoft Learn"
+  },
+  {
+    "title": "Azure Fundamentals: Describe Azure architecture and services",
+    "category": "learning",
+    "type": "cloud",
+    "url": "https://learn.microsoft.com/en-us/users/mohamadsyalvasr/",
+    "image": "https://learn.microsoft.com/en-us/training/achievements/azure-fundamentals-describe-azure-architecture-services.svg",
+    "description": "",
+    "issued": "Microsoft Learn"
+  },
+  {
+    "title": "Microsoft Azure Fundamentals: Describe cloud concepts",
+    "category": "learning",
+    "type": "cloud",
+    "url": "https://learn.microsoft.com/en-us/users/mohamadsyalvasr/",
+    "image": "https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg",
+    "description": "",
+    "issued": "Microsoft Learn"
+  },
+  {
     "title": "Oracle Cloud Data Management 2022 Foundations Certified Associate",
     "category": "certification",
     "type": "cloud",
