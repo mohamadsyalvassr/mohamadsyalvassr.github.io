@@ -1,11 +1,32 @@
 [
   {
+    "title": "AWS Cloud Quest: Cloud Practitioner",
+    "category": "quest",
+    "type": "cloud",
+    "url": "https://www.credly.com/users/mohamadsyalvasr/badges",
+    "image": "https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png",
+    "description": "",
+    "date": "",
+    "issued": "Amazon Web Services Training and Certification"
+  },
+  {
+    "title": "AWS Learning: Architecting",
+    "category": "learning",
+    "type": "cloud",
+    "url": "https://www.credly.com/users/mohamadsyalvasr/badges",
+    "image": "https://images.credly.com/size/340x340/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png",
+    "description": "",
+    "date": "",
+    "issued": "Amazon Web Services Training and Certification"
+  },
+  {
     "title": "JavaScript Algorithms and Data Structures",
     "category": "learning",
     "type": "cloud",
     "url": "https://www.freecodecamp.org/certification/mohamadsyalvasr/javascript-algorithms-and-data-structures",
     "image": "../assets/imgs/freecodecamp.svg",
     "description": "",
+    "date": "",
     "issued": "freeCodeCamp"
   },
   {
@@ -15,6 +36,7 @@
     "url": "https://www.credly.com/badges/fb850f3a-5cb1-4b7e-8aa9-8ee6b924b307",
     "image": "https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png",
     "description": "",
+    "date": "",
     "issued": "Amazon Web Services Training and Certification"
   },
   {
@@ -24,6 +46,7 @@
     "url": "https://www.credly.com/earner/earned/badge/1ef619e3-ce2c-45ad-a3b8-13b5fe66fa28",
     "image": "https://images.credly.com/size/340x340/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png",
     "description": "",
+    "date": "",
     "issued": "Amazon Web Services Training and Certification"
   },
   {
@@ -33,6 +56,7 @@
     "url": "https://edu.alibabacloud.com/certification/apsaraclouder_special_edition?spm=a2c4d.11423077.0.0.142612dbAZ9Mzk",
     "image": "https://xuecdn2.aliyunedu.net/img_8ddb2db16bfc073a85aabf072a6f4537.png",
     "description": "",
+    "date": "",
     "issued": "Alibaba Cloud"
   },
   {
@@ -42,6 +66,7 @@
     "url": "https://learn.microsoft.com/en-us/users/mohamadsyalvasr/",
     "image": "https://learn.microsoft.com/en-us/training/achievements/describe-azure-management-governance.svg",
     "description": "",
+    "date": "",
     "issued": "Microsoft Learn"
   },
   {
@@ -51,6 +76,7 @@
     "url": "https://learn.microsoft.com/en-us/users/mohamadsyalvasr/",
     "image": "https://learn.microsoft.com/en-us/training/achievements/azure-fundamentals-describe-azure-architecture-services.svg",
     "description": "",
+    "date": "",
     "issued": "Microsoft Learn"
   },
   {
@@ -60,6 +86,7 @@
     "url": "https://learn.microsoft.com/en-us/users/mohamadsyalvasr/",
     "image": "https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg",
     "description": "",
+    "date": "",
     "issued": "Microsoft Learn"
   },
   {
@@ -69,6 +96,7 @@
     "url": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=E124731A9DE75EB01384918509A1DA71563A74FCD4EC7BD7236F63D26FDFD49B",
     "image": "img/OCDMF2022.png",
     "description": "",
+    "date": "",
     "issued": "Oracle"
   },
   {
@@ -78,42 +106,47 @@
     "url": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=EFDD75B71DC87F8A52AD8CD78BBE702F805BC1E953703C2177FD8C83501AC78B",
     "image": "img/OCIF2022CA.png",
     "description": "",
+    "date": "",
     "issued": "Oracle"
   },
   {
     "title": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-    "category": "learning",
+    "category": "quest",
     "type": "cloud",
     "url": "https://www.cloudskillsboost.google/public_profiles/251fa5c4-390c-4698-9442-8ba5210e1016/badges/3092127",
     "image": "https://cdn.qwiklabs.com/OT8k8pRRu%2ForDqpfuMIwyglzX14PyLPFHd2FNRS0Ifc%3D",
     "description": "",
+    "date": "",
     "issued": "Google Cloud Skill Boost"
   },
   {
     "title": "Build and Secure Networks in Google Cloud",
-    "category": "learning",
+    "category": "quest",
     "type": "cloud",
     "url": "https://www.cloudskillsboost.google/public_profiles/251fa5c4-390c-4698-9442-8ba5210e1016/badges/3091705",
     "image": "https://cdn.qwiklabs.com/OT8k8pRRu%2ForDqpfuMIwyglzX14PyLPFHd2FNRS0Ifc%3D",
     "description": "",
+    "date": "",
     "issued": "Google Cloud Skill Boost"
   },
   {
     "title": "Perform Foundational Infrastructure Tasks in Google Cloud",
-    "category": "learning",
+    "category": "quest",
     "type": "cloud",
     "url": "https://www.cloudskillsboost.google/public_profiles/251fa5c4-390c-4698-9442-8ba5210e1016/badges/3091610",
     "image": "https://cdn.qwiklabs.com/SOUHCWvev6HmfC5QztXJd%2BCkSK8%2B3WGWg%2BF%2Fww%2FfqXA%3D",
     "description": "",
+    "date": "",
     "issued": "Google Cloud Skill Boost"
   },
   {
     "title": "Create and Manage Cloud Resources",
-    "category": "learning",
+    "category": "quest",
     "type": "cloud",
     "url": "https://www.cloudskillsboost.google/public_profiles/251fa5c4-390c-4698-9442-8ba5210e1016/badges/3065706",
     "image": "https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D",
     "description": "",
+    "date": "",
     "issued": "Google Cloud Skill Boost"
   },
   {
@@ -123,6 +156,7 @@
     "url": "https://www.cloudskillsboost.google/public_profiles/251fa5c4-390c-4698-9442-8ba5210e1016/badges/129184",
     "image": "https://cdn.qwiklabs.com/CK1Zt1Rct6URvfcD6V89kJapt5%2BrX8gcZoW6T6qpfhQ%3D",
     "description": "",
+    "date": "",
     "issued": "Google Cloud Skill Boost"
   },
   {
@@ -132,6 +166,7 @@
     "url": "https://www.cloudskillsboost.google/public_profiles/251fa5c4-390c-4698-9442-8ba5210e1016/badges/127933",
     "image": "https://cdn.qwiklabs.com/8Ty4AO%2FSxqg40B9%2BDCxl7WezjpfDq0LuqVU8gM4A5No%3D",
     "description": "",
+    "date": "",
     "issued": "Google Cloud Skill Boost"
   },
   {
@@ -141,6 +176,7 @@
     "url": "https://badges.chef.io/public/assertions/QGH7DJv0TxeprCm-0XoyDg",
     "image": "../assets/imgs/chef.png",
     "description": "",
+    "date": "",
     "issued": "Progress Chef"
   },
   {
@@ -150,6 +186,7 @@
     "url": "https://www.credential.net/ad2597a0-e3c6-49c1-aba6-ec992e4a1003?username=mohamadsyalvasr",
     "image": "img/gitops scale.png",
     "description": "",
+    "date": "",
     "issued": "codefresh"
   },
   {
@@ -159,6 +196,7 @@
     "url": "https://www.credential.net/0b8eb9f1-86a0-4c45-ae9f-f7dc46806840?username=mohamadsyalvasr#gs.tuimk3",
     "image": "img/gitops fundamental.png",
     "description": "",
+    "date": "",
     "issued": "codefresh"
   },
   {
@@ -168,6 +206,7 @@
     "url": "https://www.credly.com/earner/earned/badge/3450640c-4404-402d-a54f-b8c9d72ad690",
     "image": "https://images.credly.com/size/340x340/images/b497d307-a9ce-4221-8cc0-39bb23b823e0/image.png",
     "description": "",
+    "date": "",
     "issued": "Zerto"
   },
   {
@@ -177,6 +216,7 @@
     "url": "https://www.credential.net/20146b40-2886-445a-99ac-779b92b05f7c?username=mohamadsyalvasr",
     "image": "img/NSE3.png",
     "description": "",
+    "date": "",
     "issued": "Fortinet"
   },
   {
@@ -186,6 +226,7 @@
     "url": "https://www.credential.net/71b74738-e42a-4574-a61e-b9c4b8aac665?username=mohamadsyalvasr",
     "image": "img/NSE2.png",
     "description": "",
+    "date": "",
     "issued": "Fortinet"
   },
   {
@@ -195,6 +236,7 @@
     "url": "https://www.credential.net/8e4e8f62-bafc-4520-8685-54a25fe0ace2?username=mohamadsyalvasr#gs.tulga8",
     "image": "img/NSE1.png",
     "description": "",
+    "date": "",
     "issued": "Fortinet"
   },
   {
@@ -204,6 +246,7 @@
     "url": "https://www.credential.net/a5589c7f-636f-486e-9a07-ef62f72e3ef1?username=mohamadsyalvasr#gs.tuiijx",
     "image": "https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16729731227214400663602231721320.jpg?cb=1672973108948",
     "description": "",
+    "date": "",
     "issued": "cPanel"
   },
   {
@@ -213,6 +256,7 @@
     "url": "https://www.credential.net/998815c1-f11e-4c43-83ce-937b5b85ed0c?username=mohamadsyalvasr#gs.tup1my",
     "image": "https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16771674763237583537370071852576.jpg?cb=1677167478761",
     "description": "",
+    "date": "",
     "issued": "ArangoDB Inc."
   },
   {
@@ -222,6 +266,7 @@
     "url": "https://www.credential.net/de887024-3304-412c-804b-37b9b16bdde9?username=mohamadsyalvasr#gs.tuia0p",
     "image": "img/Badge-ProdMgr.png",
     "description": "",
+    "date": "",
     "issued": "API Academy"
   },
   {
@@ -231,6 +276,7 @@
     "url": "https://www.credential.net/77f7c737-d1ea-4648-80c3-2deea25d8e73?username=mohamadsyalvasr#gs.tui926",
     "image": "img/Badge-SecArch.png",
     "description": "",
+    "date": "",
     "issued": "API Academy"
   },
   {
@@ -240,6 +286,7 @@
     "url": "https://www.credential.net/12526009-20e2-43fb-a700-b58e94445b79?username=mohamadsyalvasr#gs.tui754",
     "image": "img/Badge-Designer.png",
     "description": "",
+    "date": "",
     "issued": "API Academy"
   },
   {
@@ -249,6 +296,7 @@
     "url": "https://www.credly.com/earner/earned/badge/1e881b6c-0221-4e7d-877b-5432db5792fb",
     "image": "https://images.credly.com/size/340x340/images/a235db07-a757-4575-92ef-1087aaeacc8f/image.png",
     "description": "",
+    "date": "",
     "issued": "Microsoft Advertising"
   },
   {
@@ -258,6 +306,7 @@
     "url": "https://www.credly.com/earner/earned/badge/1e881b6c-0221-4e7d-877b-5432db5792fb",
     "image": "https://images.credly.com/size/340x340/images/e19e9898-a6aa-4b2c-854a-a69008c8e1cf/image.png",
     "description": "",
+    "date": "",
     "issued": "Microsoft Advertising"
   },
   {
@@ -267,6 +316,7 @@
     "url": "https://www.credly.com/earner/earned/badge/1e881b6c-0221-4e7d-877b-5432db5792fb",
     "image": "https://images.credly.com/size/340x340/images/a4983a2a-92c0-4bb1-84f7-4d181b498dcb/image.png",
     "description": "",
+    "date": "",
     "issued": "Microsoft Advertising"
   },
   {
@@ -276,6 +326,7 @@
     "url": "https://www.credly.com/earner/earned/badge/1e881b6c-0221-4e7d-877b-5432db5792fb",
     "image": "https://images.credly.com/size/340x340/images/cef444e4-c584-4f7f-9738-fb908b38a88f/image.png",
     "description": "",
+    "date": "",
     "issued": "Microsoft Advertising"
   },
   {
@@ -285,6 +336,7 @@
     "url": "https://www.credential.net/c9601aad-e377-4531-8f84-3f57954b75ed",
     "image": "https://templates.images.credential.net/16692086892170817459463070838588.png",
     "description": "",
+    "date": "",
     "issued": "Google Skillshop"
   },
   {
@@ -294,6 +346,7 @@
     "url": "https://www.credential.net/35e7a4d5-0e8b-44c2-9e41-45eb96ad98f3",
     "image": "https://templates.images.credential.net/16692049902649897014065939581188.png",
     "description": "",
+    "date": "",
     "issued": "Google Skillshop"
   },
   {
@@ -303,6 +356,7 @@
     "url": "https://www.credential.net/0fdde866-4bca-4fde-b730-c131b2e5632d",
     "image": "https://templates.images.credential.net/16692030476507846323162302235838.png",
     "description": "",
+    "date": "",
     "issued": "Google Skillshop"
   },
   {
@@ -312,6 +366,7 @@
     "url": "https://www.credly.com/earner/earned/badge/42a51d50-5035-4f96-bacd-55cdd4f33f65",
     "image": "https://images.credly.com/size/340x340/images/ea2c9f2e-b7e1-4a5a-a82e-7e94b67b35bd/image.png",
     "description": "",
+    "date": "",
     "issued": "CertiProf"
   },
   {
@@ -321,6 +376,7 @@
     "url": "https://www.credly.com/earner/earned/badge/e9969b23-d461-4c46-81df-523f7df774e3",
     "image": "https://images.credly.com/size/340x340/images/faf174da-88b2-48f3-83a1-f016f97132cc/image.png",
     "description": "",
+    "date": "",
     "issued": "CertiProf"
   },
   {
@@ -330,6 +386,7 @@
     "url": "https://mikrotik.com/training/certificates/b180028c935e4e7385d6",
     "image": "../assets/imgs/MTCNA.webp",
     "description": "",
+    "date": "",
     "issued": "MikroTik"
   },
   {
@@ -339,6 +396,7 @@
     "url": "https://www.credly.com/badges/e7ac6b46-6eab-4680-8a36-5fab2250a3b2",
     "image": "https://images.credly.com/size/340x340/images/3829db50-49a8-4f30-85c5-639ffc4a7b2f/image.png",
     "description": "",
+    "date": "",
     "issued": "(ISC)²"
   },
   {
@@ -348,6 +406,7 @@
     "url": "https://www.credly.com/badges/32b5fb62-8224-4e00-8d7c-1f2862085322",
     "image": "https://images.credly.com/size/340x340/images/fd01bdd5-9d8b-4acd-a272-e981128ec731/CybersecurityPathwayBadge.png",
     "description": "",
+    "date": "",
     "issued": "Cisco Netwoking Academy"
   },
   {
@@ -357,6 +416,7 @@
     "url": "https://www.credly.com/badges/32b5fb62-8224-4e00-8d7c-1f2862085322",
     "image": "https://images.credly.com/size/340x340/images/fe36e3ef-f014-41f6-9089-073d5eac58c3/CyberThreatManagement_v1_091721.png",
     "description": "",
+    "date": "",
     "issued": "Cisco Netwoking Academy"
   },
   {
@@ -366,6 +426,7 @@
     "url": "https://www.credly.com/badges/32b5fb62-8224-4e00-8d7c-1f2862085322",
     "image": "https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png",
     "description": "",
+    "date": "",
     "issued": "Cisco Netwoking Academy"
   },
   {
@@ -375,6 +436,7 @@
     "url": "https://www.credly.com/badges/32b5fb62-8224-4e00-8d7c-1f2862085322",
     "image": "https://images.credly.com/size/340x340/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png",
     "description": "",
+    "date": "",
     "issued": "Cisco Netwoking Academy"
   },
   {
@@ -384,6 +446,7 @@
     "url": "https://www.credly.com/badges/32b5fb62-8224-4e00-8d7c-1f2862085322",
     "image": "https://images.credly.com/size/340x340/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png",
     "description": "",
+    "date": "",
     "issued": "Cisco Netwoking Academy"
   },
   {
@@ -393,6 +456,7 @@
     "url": "https://www.credly.com/badges/32b5fb62-8224-4e00-8d7c-1f2862085322",
     "image": "https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png",
     "description": "",
+    "date": "",
     "issued": "Cisco Netwoking Academy"
   },
   {
@@ -402,6 +466,7 @@
     "url": "https://www.credly.com/badges/ab0d2f08-23a8-4e77-99a1-f4fbd66a5deb",
     "image": "https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png",
     "description": "",
+    "date": "",
     "issued": "Cisco Netwoking Academy"
   },
   {
@@ -411,6 +476,7 @@
     "url": "https://www.dicoding.com/users/148197/academies",
     "image": "../old/images/dicoding.jpg",
     "description": "",
+    "date": "",
     "issued": "Dicoding"
   },
   {
@@ -420,6 +486,7 @@
     "url": "https://www.dicoding.com/users/148197/academies",
     "image": "../old/images/dicoding.jpg",
     "description": "",
+    "date": "",
     "issued": "Dicoding"
   },
   {
@@ -429,6 +496,7 @@
     "url": "https://www.dicoding.com/users/148197/academies",
     "image": "../old/images/dicoding.jpg",
     "description": "",
+    "date": "",
     "issued": "Dicoding"
   },
   {
@@ -438,6 +506,7 @@
     "url": "https://www.dicoding.com/users/148197/academies",
     "image": "../old/images/dicoding.jpg",
     "description": "",
+    "date": "",
     "issued": "Dicoding"
   },
   {
@@ -447,6 +516,7 @@
     "url": "https://www.dicoding.com/users/148197/academies",
     "image": "../old/images/dicoding.jpg",
     "description": "",
+    "date": "",
     "issued": "Dicoding"
   },
   {
@@ -456,6 +526,7 @@
     "url": "https://www.dicoding.com/users/148197/academies",
     "image": "../old/images/dicoding.jpg",
     "description": "",
+    "date": "",
     "issued": "Dicoding"
   },
   {
@@ -465,6 +536,7 @@
     "url": "https://drive.google.com/open?id=1SKWiOEUvfsqhtD3JoBc7T-Jh5LUm_qoM",
     "image": "../old/images/hki.jpg",
     "description": "",
+    "date": "",
     "issued": "Indonesian Ministry of Law and Human Rights (Kemenkumham)"
   },
   {
@@ -474,6 +546,7 @@
     "url": "https://drive.google.com/file/d/1Q7tpAnT0r18bJsFibwm25aeWC66U-sxU/view?usp=sharing",
     "image": "../old/images/gdg.jpg",
     "description": "",
+    "date": "",
     "issued": "Google Digital Garage"
   },
   {
@@ -483,6 +556,7 @@
     "url": "https://www.coursera.org/account/accomplishments/specialization/B4CR3T8SMVHM",
     "image": "../old/images/coursera.jpg",
     "description": "",
+    "date": "",
     "issued": "Coursera"
   },
   {
@@ -492,6 +566,7 @@
     "url": "https://www.coursera.org/account/accomplishments/specialization/U4ZDFT68M8DY",
     "image": "../old/images/coursera.jpg",
     "description": "",
+    "date": "",
     "issued": "Coursera"
   },
   {
@@ -501,6 +576,7 @@
     "url": "https://www.coursera.org/account/accomplishments/specialization/JTT8SBZJVSNS",
     "image": "../old/images/coursera.jpg",
     "description": "",
+    "date": "",
     "issued": "Coursera"
   },
   {
@@ -510,6 +586,7 @@
     "url": "https://www.coursera.org/account/accomplishments/professional-cert/8PHGSUT8SU7T",
     "image": "../old/images/coursera.jpg",
     "description": "",
+    "date": "",
     "issued": "Coursera"
   },
   {
@@ -519,6 +596,7 @@
     "url": "https://www.coursera.org/account/accomplishments/professional-cert/GVE3X956USL7",
     "image": "../old/images/coursera.jpg",
     "description": "",
+    "date": "",
     "issued": "Coursera"
   },
   {
@@ -528,6 +606,7 @@
     "url": "https://www.coursera.org/account/accomplishments/professional-cert/U7ENQ76XVYG6",
     "image": "../old/images/coursera.jpg",
     "description": "",
+    "date": "",
     "issued": "Coursera"
   },
   {
@@ -537,6 +616,7 @@
     "url": "https://drive.google.com/open?id=1hUazUJmB_EYaDIAIMeiDE324WhTtR2Vy",
     "image": "../old/images/datacamp.jpg",
     "description": "",
+    "date": "",
     "issued": "DataCamp"
   },
   {
@@ -546,6 +626,7 @@
     "url": "https://drive.google.com/file/d/1jz6jHYzijOn1oUWyUfWm5i8aZ-mQyPYp/view?usp=sharing",
     "image": "../old/images/datacamp.jpg",
     "description": "",
+    "date": "",
     "issued": "DataCamp"
   },
   {
@@ -555,6 +636,7 @@
     "url": "https://drive.google.com/open?id=1hfGuKmBOYI3yL-zTqjstGAMGpR4m8jVC",
     "image": "../old/images/polteksmi-alt.jpg",
     "description": "",
+    "date": "",
     "issued": "Politeknik Sukabumi"
   },
   {
@@ -564,6 +646,7 @@
     "url": "https://drive.google.com/file/d/1yjCcuRg58SDetqHznk7b1YrjyaSsOApn/view?usp=sharing",
     "image": "../old/images/digitalent.jpg",
     "description": "",
+    "date": "",
     "issued": "Ministry of Communication and Information Technology of the Republic of Indonesia"
   },
   {
@@ -573,6 +656,7 @@
     "url": "https://www.dicoding.com/users/148197/academies",
     "image": "../old/images/dicoding.jpg",
     "description": "",
+    "date": "",
     "issued": "Dicoding"
   },
   {
@@ -582,6 +666,7 @@
     "url": "https://www.dicoding.com/users/148197/academies",
     "image": "../old/images/dicoding.jpg",
     "description": "",
+    "date": "",
     "issued": "Dicoding"
   },
   {
@@ -591,6 +676,7 @@
     "url": "https://www.dicoding.com/users/148197/academies",
     "image": "../old/images/dicoding.jpg",
     "description": "",
+    "date": "",
     "issued": "Dicoding"
   },
   {
@@ -600,6 +686,7 @@
     "url": "https://www.dicoding.com/users/148197/academies",
     "image": "../old/images/dicoding.jpg",
     "description": "",
+    "date": "",
     "issued": "Dicoding"
   }
 ]
