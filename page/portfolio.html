@@ -82,9 +82,11 @@
         <div class="filters portfolio-filter">
           <ul>
             <li class="active" data-filter="all">all</li>
-            <li data-filter="upcoming">upcoming</li>
-            <li data-filter="website">Website</li>
+            <li data-filter="upcoming">Upcoming</li>
+            <li data-filter="desktop">Desktop Apps</li>
+            <li data-filter="website">Web Apps</li>
             <li data-filter="prototype">Prototype</li>
+            <li data-filter="network">Network</li>
             <li data-filter="design">Design</li>
             <li data-filter="landing">Landing Page</li>
           </ul>
@@ -158,7 +160,7 @@
             titleLink.appendChild(titleH4);
 
             var categoryP = document.createElement("p");
-            categoryP.innerText = data[i].category;
+            categoryP.innerText = data[i].org;
 
             iconDiv.appendChild(crossSpan);
             imgGalAnchor.appendChild(iconDiv);

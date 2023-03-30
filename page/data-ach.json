@@ -1,5 +1,14 @@
 [
   {
+    "title": "JavaScript Algorithms and Data Structures",
+    "category": "learning",
+    "type": "cloud",
+    "url": "https://www.freecodecamp.org/certification/mohamadsyalvasr/javascript-algorithms-and-data-structures",
+    "image": "../assets/imgs/freecodecamp.svg",
+    "description": "",
+    "issued": "freeCodeCamp"
+  },
+  {
     "title": "AWS Certified Cloud Practitioner",
     "category": "certification",
     "type": "cloud",
@@ -141,7 +150,7 @@
     "url": "https://www.credential.net/ad2597a0-e3c6-49c1-aba6-ec992e4a1003?username=mohamadsyalvasr",
     "image": "img/gitops scale.png",
     "description": "",
-    "issued": "Progress Chef"
+    "issued": "codefresh"
   },
   {
     "title": "GitOps Fundamentals",
@@ -150,7 +159,7 @@
     "url": "https://www.credential.net/0b8eb9f1-86a0-4c45-ae9f-f7dc46806840?username=mohamadsyalvasr#gs.tuimk3",
     "image": "img/gitops fundamental.png",
     "description": "",
-    "issued": "Progress Chef"
+    "issued": "codefresh"
   },
   {
     "title": "Zerto Certified Associate",
@@ -162,7 +171,7 @@
     "issued": "Zerto"
   },
   {
-    "title": "NSE 3 Fortinet NSE Associate",
+    "title": "Fortinet NSE 3 Associate",
     "category": "certification",
     "type": "cloud",
     "url": "https://www.credential.net/20146b40-2886-445a-99ac-779b92b05f7c?username=mohamadsyalvasr",
@@ -171,7 +180,7 @@
     "issued": "Fortinet"
   },
   {
-    "title": "NSE 2 Fortinet NSE Associate",
+    "title": "Fortinet NSE 2 Associate",
     "category": "certification",
     "type": "cloud",
     "url": "https://www.credential.net/71b74738-e42a-4574-a61e-b9c4b8aac665?username=mohamadsyalvasr",
@@ -180,7 +189,7 @@
     "issued": "Fortinet"
   },
   {
-    "title": "NSE 1 Fortinet NSE Associate",
+    "title": "Fortinet NSE 1 Associate",
     "category": "certification",
     "type": "cloud",
     "url": "https://www.credential.net/8e4e8f62-bafc-4520-8685-54a25fe0ace2?username=mohamadsyalvasr#gs.tulga8",
@@ -315,11 +324,11 @@
     "issued": "CertiProf"
   },
   {
-    "title": "MTCNA",
+    "title": "MikroTik Certified Network Associate (MTCNA)",
     "category": "certification",
     "type": "cloud",
     "url": "https://mikrotik.com/training/certificates/b180028c935e4e7385d6",
-    "image": "https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16729701157549976747642322235319.png?cb=1672970103170",
+    "image": "../assets/imgs/MTCNA.webp",
     "description": "",
     "issued": "MikroTik"
   },
