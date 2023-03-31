@@ -40,11 +40,11 @@
     "issued": "Amazon Web Services Training and Certification"
   },
   {
-    "title": "AWS Academy Graduate - AWS Academy Cloud Developing",
-    "category": "course",
+    "title": "AWS re/Start Graduate",
+    "category": "academy",
     "type": "cloud",
-    "url": "https://www.credly.com/earner/earned/badge/1ef619e3-ce2c-45ad-a3b8-13b5fe66fa28",
-    "image": "https://images.credly.com/size/340x340/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png",
+    "url": "#",
+    "image": "https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png",
     "description": "",
     "date": "",
     "issued": "Amazon Web Services Training and Certification"
@@ -58,6 +58,16 @@
     "description": "Scenario-based / technical-based certifications Alibaba Cloud.",
     "date": "",
     "issued": "Alibaba Cloud"
+  },
+  {
+    "title": "Chef Principles Certification",
+    "category": "certification",
+    "type": "cloud",
+    "url": "https://badges.chef.io/public/assertions/QGH7DJv0TxeprCm-0XoyDg",
+    "image": "../assets/imgs/chef.png",
+    "description": "",
+    "date": "",
+    "issued": "Progress Chef"
   },
   {
     "title": "Azure Fundamentals: Describe Azure management and governance",
@@ -108,76 +118,6 @@
     "description": "",
     "date": "",
     "issued": "Oracle"
-  },
-  {
-    "title": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-    "category": "quest",
-    "type": "cloud",
-    "url": "https://www.cloudskillsboost.google/public_profiles/251fa5c4-390c-4698-9442-8ba5210e1016/badges/3092127",
-    "image": "https://cdn.qwiklabs.com/OT8k8pRRu%2ForDqpfuMIwyglzX14PyLPFHd2FNRS0Ifc%3D",
-    "description": "",
-    "date": "",
-    "issued": "Google Cloud Skill Boost"
-  },
-  {
-    "title": "Build and Secure Networks in Google Cloud",
-    "category": "quest",
-    "type": "cloud",
-    "url": "https://www.cloudskillsboost.google/public_profiles/251fa5c4-390c-4698-9442-8ba5210e1016/badges/3091705",
-    "image": "https://cdn.qwiklabs.com/OT8k8pRRu%2ForDqpfuMIwyglzX14PyLPFHd2FNRS0Ifc%3D",
-    "description": "",
-    "date": "",
-    "issued": "Google Cloud Skill Boost"
-  },
-  {
-    "title": "Perform Foundational Infrastructure Tasks in Google Cloud",
-    "category": "quest",
-    "type": "cloud",
-    "url": "https://www.cloudskillsboost.google/public_profiles/251fa5c4-390c-4698-9442-8ba5210e1016/badges/3091610",
-    "image": "https://cdn.qwiklabs.com/SOUHCWvev6HmfC5QztXJd%2BCkSK8%2B3WGWg%2BF%2Fww%2FfqXA%3D",
-    "description": "",
-    "date": "",
-    "issued": "Google Cloud Skill Boost"
-  },
-  {
-    "title": "Create and Manage Cloud Resources",
-    "category": "quest",
-    "type": "cloud",
-    "url": "https://www.cloudskillsboost.google/public_profiles/251fa5c4-390c-4698-9442-8ba5210e1016/badges/3065706",
-    "image": "https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D",
-    "description": "",
-    "date": "",
-    "issued": "Google Cloud Skill Boost"
-  },
-  {
-    "title": "Cloud Engineering",
-    "category": "course",
-    "type": "cloud",
-    "url": "https://www.cloudskillsboost.google/public_profiles/251fa5c4-390c-4698-9442-8ba5210e1016/badges/129184",
-    "image": "https://cdn.qwiklabs.com/CK1Zt1Rct6URvfcD6V89kJapt5%2BrX8gcZoW6T6qpfhQ%3D",
-    "description": "",
-    "date": "",
-    "issued": "Google Cloud Skill Boost"
-  },
-  {
-    "title": "Cloud Architecture",
-    "category": "course",
-    "type": "cloud",
-    "url": "https://www.cloudskillsboost.google/public_profiles/251fa5c4-390c-4698-9442-8ba5210e1016/badges/127933",
-    "image": "https://cdn.qwiklabs.com/8Ty4AO%2FSxqg40B9%2BDCxl7WezjpfDq0LuqVU8gM4A5No%3D",
-    "description": "",
-    "date": "",
-    "issued": "Google Cloud Skill Boost"
-  },
-  {
-    "title": "Chef Principles Certification",
-    "category": "certification",
-    "type": "cloud",
-    "url": "https://badges.chef.io/public/assertions/QGH7DJv0TxeprCm-0XoyDg",
-    "image": "../assets/imgs/chef.png",
-    "description": "",
-    "date": "",
-    "issued": "Progress Chef"
   },
   {
     "title": "GitOps at Scale",
@@ -288,6 +228,16 @@
     "description": "",
     "date": "",
     "issued": "API Academy"
+  },
+  {
+    "title": "AWS Academy Graduate - AWS Academy Cloud Developing",
+    "category": "academy",
+    "type": "cloud",
+    "url": "https://www.credly.com/badges/1ef619e3-ce2c-45ad-a3b8-13b5fe66fa28",
+    "image": "https://images.credly.com/size/340x340/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png",
+    "description": "",
+    "date": "",
+    "issued": "Amazon Web Services Training and Certification"
   },
   {
     "title": "Microsoft Advertising Certified Professional",
@@ -529,6 +479,67 @@
     "date": "",
     "issued": "Dicoding"
   },
+
+  {
+    "title": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+    "category": "quest",
+    "type": "cloud",
+    "url": "https://www.cloudskillsboost.google/public_profiles/251fa5c4-390c-4698-9442-8ba5210e1016/badges/3092127",
+    "image": "https://cdn.qwiklabs.com/OT8k8pRRu%2ForDqpfuMIwyglzX14PyLPFHd2FNRS0Ifc%3D",
+    "description": "",
+    "date": "",
+    "issued": "Google Cloud Skill Boost"
+  },
+  {
+    "title": "Build and Secure Networks in Google Cloud",
+    "category": "quest",
+    "type": "cloud",
+    "url": "https://www.cloudskillsboost.google/public_profiles/251fa5c4-390c-4698-9442-8ba5210e1016/badges/3091705",
+    "image": "https://cdn.qwiklabs.com/OT8k8pRRu%2ForDqpfuMIwyglzX14PyLPFHd2FNRS0Ifc%3D",
+    "description": "",
+    "date": "",
+    "issued": "Google Cloud Skill Boost"
+  },
+  {
+    "title": "Perform Foundational Infrastructure Tasks in Google Cloud",
+    "category": "quest",
+    "type": "cloud",
+    "url": "https://www.cloudskillsboost.google/public_profiles/251fa5c4-390c-4698-9442-8ba5210e1016/badges/3091610",
+    "image": "https://cdn.qwiklabs.com/SOUHCWvev6HmfC5QztXJd%2BCkSK8%2B3WGWg%2BF%2Fww%2FfqXA%3D",
+    "description": "",
+    "date": "",
+    "issued": "Google Cloud Skill Boost"
+  },
+  {
+    "title": "Create and Manage Cloud Resources",
+    "category": "quest",
+    "type": "cloud",
+    "url": "https://www.cloudskillsboost.google/public_profiles/251fa5c4-390c-4698-9442-8ba5210e1016/badges/3065706",
+    "image": "https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D",
+    "description": "",
+    "date": "",
+    "issued": "Google Cloud Skill Boost"
+  },
+  {
+    "title": "Cloud Engineering",
+    "category": "course",
+    "type": "cloud",
+    "url": "https://www.cloudskillsboost.google/public_profiles/251fa5c4-390c-4698-9442-8ba5210e1016/badges/129184",
+    "image": "https://cdn.qwiklabs.com/CK1Zt1Rct6URvfcD6V89kJapt5%2BrX8gcZoW6T6qpfhQ%3D",
+    "description": "",
+    "date": "",
+    "issued": "Google Cloud Skill Boost"
+  },
+  {
+    "title": "Cloud Architecture",
+    "category": "course",
+    "type": "cloud",
+    "url": "https://www.cloudskillsboost.google/public_profiles/251fa5c4-390c-4698-9442-8ba5210e1016/badges/127933",
+    "image": "https://cdn.qwiklabs.com/8Ty4AO%2FSxqg40B9%2BDCxl7WezjpfDq0LuqVU8gM4A5No%3D",
+    "description": "",
+    "date": "",
+    "issued": "Google Cloud Skill Boost"
+  },
   {
     "title": "Regional Potential Applications with Web-Based and Geographic Information Systems",
     "category": "other",
@@ -641,7 +652,7 @@
   },
   {
     "title": "Associate Cloud Engineer",
-    "category": "other",
+    "category": "academy",
     "type": "cloud",
     "url": "https://drive.google.com/file/d/1yjCcuRg58SDetqHznk7b1YrjyaSsOApn/view?usp=sharing",
     "image": "../old/images/digitalent.jpg",
