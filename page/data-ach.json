@@ -3,17 +3,17 @@
     "title": "AWS Cloud Quest: Cloud Practitioner",
     "category": "quest",
     "type": "cloud",
-    "url": "https://www.credly.com/users/mohamadsyalvasr/badges",
+    "url": "#achievement",
     "image": "https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png",
     "description": "",
     "date": "",
     "issued": "Amazon Web Services Training and Certification"
   },
   {
-    "title": "AWS Learning: Architecting",
-    "category": "learning",
+    "title": "AWS course: Architecting",
+    "category": "course",
     "type": "cloud",
-    "url": "https://www.credly.com/users/mohamadsyalvasr/badges",
+    "url": "#achievement",
     "image": "https://images.credly.com/size/340x340/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png",
     "description": "",
     "date": "",
@@ -21,7 +21,7 @@
   },
   {
     "title": "JavaScript Algorithms and Data Structures",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.freecodecamp.org/certification/mohamadsyalvasr/javascript-algorithms-and-data-structures",
     "image": "../assets/imgs/freecodecamp.svg",
@@ -35,13 +35,13 @@
     "type": "cloud",
     "url": "https://www.credly.com/badges/fb850f3a-5cb1-4b7e-8aa9-8ee6b924b307",
     "image": "https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png",
-    "description": "",
+    "description": "I was able to identify essential AWS services necessary to set up AWS-focused projects",
     "date": "",
     "issued": "Amazon Web Services Training and Certification"
   },
   {
     "title": "AWS Academy Graduate - AWS Academy Cloud Developing",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.credly.com/earner/earned/badge/1ef619e3-ce2c-45ad-a3b8-13b5fe66fa28",
     "image": "https://images.credly.com/size/340x340/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png",
@@ -55,13 +55,13 @@
     "type": "cloud",
     "url": "https://edu.alibabacloud.com/certification/apsaraclouder_special_edition?spm=a2c4d.11423077.0.0.142612dbAZ9Mzk",
     "image": "https://xuecdn2.aliyunedu.net/img_8ddb2db16bfc073a85aabf072a6f4537.png",
-    "description": "",
+    "description": "Scenario-based / technical-based certifications Alibaba Cloud.",
     "date": "",
     "issued": "Alibaba Cloud"
   },
   {
     "title": "Azure Fundamentals: Describe Azure management and governance",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://learn.microsoft.com/en-us/users/mohamadsyalvasr/",
     "image": "https://learn.microsoft.com/en-us/training/achievements/describe-azure-management-governance.svg",
@@ -71,7 +71,7 @@
   },
   {
     "title": "Azure Fundamentals: Describe Azure architecture and services",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://learn.microsoft.com/en-us/users/mohamadsyalvasr/",
     "image": "https://learn.microsoft.com/en-us/training/achievements/azure-fundamentals-describe-azure-architecture-services.svg",
@@ -81,7 +81,7 @@
   },
   {
     "title": "Microsoft Azure Fundamentals: Describe cloud concepts",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://learn.microsoft.com/en-us/users/mohamadsyalvasr/",
     "image": "https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg",
@@ -94,7 +94,7 @@
     "category": "certification",
     "type": "cloud",
     "url": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=E124731A9DE75EB01384918509A1DA71563A74FCD4EC7BD7236F63D26FDFD49B",
-    "image": "img/OCDMF2022.png",
+    "image": "../assets/imgs/cert/OCDMF2022.png",
     "description": "",
     "date": "",
     "issued": "Oracle"
@@ -104,7 +104,7 @@
     "category": "certification",
     "type": "cloud",
     "url": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=EFDD75B71DC87F8A52AD8CD78BBE702F805BC1E953703C2177FD8C83501AC78B",
-    "image": "img/OCIF2022CA.png",
+    "image": "../assets/imgs/cert/OCIF2022CA.png",
     "description": "",
     "date": "",
     "issued": "Oracle"
@@ -151,7 +151,7 @@
   },
   {
     "title": "Cloud Engineering",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.cloudskillsboost.google/public_profiles/251fa5c4-390c-4698-9442-8ba5210e1016/badges/129184",
     "image": "https://cdn.qwiklabs.com/CK1Zt1Rct6URvfcD6V89kJapt5%2BrX8gcZoW6T6qpfhQ%3D",
@@ -161,7 +161,7 @@
   },
   {
     "title": "Cloud Architecture",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.cloudskillsboost.google/public_profiles/251fa5c4-390c-4698-9442-8ba5210e1016/badges/127933",
     "image": "https://cdn.qwiklabs.com/8Ty4AO%2FSxqg40B9%2BDCxl7WezjpfDq0LuqVU8gM4A5No%3D",
@@ -184,7 +184,7 @@
     "category": "certification",
     "type": "cloud",
     "url": "https://www.credential.net/ad2597a0-e3c6-49c1-aba6-ec992e4a1003?username=mohamadsyalvasr",
-    "image": "img/gitops scale.png",
+    "image": "../assets/imgs/cert/gitops scale.png",
     "description": "",
     "date": "",
     "issued": "codefresh"
@@ -194,7 +194,7 @@
     "category": "certification",
     "type": "cloud",
     "url": "https://www.credential.net/0b8eb9f1-86a0-4c45-ae9f-f7dc46806840?username=mohamadsyalvasr#gs.tuimk3",
-    "image": "img/gitops fundamental.png",
+    "image": "../assets/imgs/cert/gitops fundamental.png",
     "description": "",
     "date": "",
     "issued": "codefresh"
@@ -214,7 +214,7 @@
     "category": "certification",
     "type": "cloud",
     "url": "https://www.credential.net/20146b40-2886-445a-99ac-779b92b05f7c?username=mohamadsyalvasr",
-    "image": "img/NSE3.png",
+    "image": "../assets/imgs/cert/NSE3.png",
     "description": "",
     "date": "",
     "issued": "Fortinet"
@@ -224,7 +224,7 @@
     "category": "certification",
     "type": "cloud",
     "url": "https://www.credential.net/71b74738-e42a-4574-a61e-b9c4b8aac665?username=mohamadsyalvasr",
-    "image": "img/NSE2.png",
+    "image": "../assets/imgs/cert/NSE2.png",
     "description": "",
     "date": "",
     "issued": "Fortinet"
@@ -234,7 +234,7 @@
     "category": "certification",
     "type": "cloud",
     "url": "https://www.credential.net/8e4e8f62-bafc-4520-8685-54a25fe0ace2?username=mohamadsyalvasr#gs.tulga8",
-    "image": "img/NSE1.png",
+    "image": "../assets/imgs/cert/NSE1.png",
     "description": "",
     "date": "",
     "issued": "Fortinet"
@@ -264,7 +264,7 @@
     "category": "certification",
     "type": "cloud",
     "url": "https://www.credential.net/de887024-3304-412c-804b-37b9b16bdde9?username=mohamadsyalvasr#gs.tuia0p",
-    "image": "img/Badge-ProdMgr.png",
+    "image": "../assets/imgs/cert/Badge-ProdMgr.png",
     "description": "",
     "date": "",
     "issued": "API Academy"
@@ -274,7 +274,7 @@
     "category": "certification",
     "type": "cloud",
     "url": "https://www.credential.net/77f7c737-d1ea-4648-80c3-2deea25d8e73?username=mohamadsyalvasr#gs.tui926",
-    "image": "img/Badge-SecArch.png",
+    "image": "../assets/imgs/cert/Badge-SecArch.png",
     "description": "",
     "date": "",
     "issued": "API Academy"
@@ -284,7 +284,7 @@
     "category": "certification",
     "type": "cloud",
     "url": "https://www.credential.net/12526009-20e2-43fb-a700-b58e94445b79?username=mohamadsyalvasr#gs.tui754",
-    "image": "img/Badge-Designer.png",
+    "image": "../assets/imgs/cert/Badge-Designer.png",
     "description": "",
     "date": "",
     "issued": "API Academy"
@@ -401,7 +401,7 @@
   },
   {
     "title": "Cybersecurity Pathway",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.credly.com/badges/32b5fb62-8224-4e00-8d7c-1f2862085322",
     "image": "https://images.credly.com/size/340x340/images/fd01bdd5-9d8b-4acd-a272-e981128ec731/CybersecurityPathwayBadge.png",
@@ -411,7 +411,7 @@
   },
   {
     "title": "Cyber Threat Management",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.credly.com/badges/32b5fb62-8224-4e00-8d7c-1f2862085322",
     "image": "https://images.credly.com/size/340x340/images/fe36e3ef-f014-41f6-9089-073d5eac58c3/CyberThreatManagement_v1_091721.png",
@@ -421,7 +421,7 @@
   },
   {
     "title": "Network Defense",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.credly.com/badges/32b5fb62-8224-4e00-8d7c-1f2862085322",
     "image": "https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png",
@@ -431,7 +431,7 @@
   },
   {
     "title": "Endpoint Security",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.credly.com/badges/32b5fb62-8224-4e00-8d7c-1f2862085322",
     "image": "https://images.credly.com/size/340x340/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png",
@@ -441,7 +441,7 @@
   },
   {
     "title": "Networking Devices and Initial Configuration",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.credly.com/badges/32b5fb62-8224-4e00-8d7c-1f2862085322",
     "image": "https://images.credly.com/size/340x340/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png",
@@ -451,7 +451,7 @@
   },
   {
     "title": "Networking Basics",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.credly.com/badges/32b5fb62-8224-4e00-8d7c-1f2862085322",
     "image": "https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png",
@@ -461,7 +461,7 @@
   },
   {
     "title": "Introduction to Cybersecurity",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.credly.com/badges/ab0d2f08-23a8-4e77-99a1-f4fbd66a5deb",
     "image": "https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png",
@@ -471,7 +471,7 @@
   },
   {
     "title": "Belajar Jaringan Komputer untuk Pemula",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.dicoding.com/users/148197/academies",
     "image": "../old/images/dicoding.jpg",
@@ -481,7 +481,7 @@
   },
   {
     "title": "Belajar Dasar-Dasar DevOps",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.dicoding.com/users/148197/academies",
     "image": "../old/images/dicoding.jpg",
@@ -491,7 +491,7 @@
   },
   {
     "title": "Architecting on AWS (Membangun Arsitektur Cloud di AWS)",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.dicoding.com/users/148197/academies",
     "image": "../old/images/dicoding.jpg",
@@ -501,7 +501,7 @@
   },
   {
     "title": "Belajar Dasar Pemrograman JavaScript",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.dicoding.com/users/148197/academies",
     "image": "../old/images/dicoding.jpg",
@@ -511,7 +511,7 @@
   },
   {
     "title": "Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.dicoding.com/users/148197/academies",
     "image": "../old/images/dicoding.jpg",
@@ -521,7 +521,7 @@
   },
   {
     "title": "Belajar Membuat Aplikasi Back-End untuk Pemula",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.dicoding.com/users/148197/academies",
     "image": "../old/images/dicoding.jpg",
@@ -551,7 +551,7 @@
   },
   {
     "title": "Security in Google Cloud Platform Specialization",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.coursera.org/account/accomplishments/specialization/B4CR3T8SMVHM",
     "image": "../old/images/coursera.jpg",
@@ -561,7 +561,7 @@
   },
   {
     "title": "Architecting with Google Kubernetes Engine Specialization",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.coursera.org/account/accomplishments/specialization/U4ZDFT68M8DY",
     "image": "../old/images/coursera.jpg",
@@ -571,7 +571,7 @@
   },
   {
     "title": "G Suite Administration Specialization",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.coursera.org/account/accomplishments/specialization/JTT8SBZJVSNS",
     "image": "../old/images/coursera.jpg",
@@ -581,7 +581,7 @@
   },
   {
     "title": "Cloud Architecture with GCP Specialization",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.coursera.org/account/accomplishments/professional-cert/8PHGSUT8SU7T",
     "image": "../old/images/coursera.jpg",
@@ -591,7 +591,7 @@
   },
   {
     "title": "Cloud Engineering with GCP Specialization",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.coursera.org/account/accomplishments/professional-cert/GVE3X956USL7",
     "image": "../old/images/coursera.jpg",
@@ -601,7 +601,7 @@
   },
   {
     "title": "Data Engineering with GCP Specialization",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.coursera.org/account/accomplishments/professional-cert/U7ENQ76XVYG6",
     "image": "../old/images/coursera.jpg",
@@ -611,7 +611,7 @@
   },
   {
     "title": "Data Scientist with Python Track",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://drive.google.com/open?id=1hUazUJmB_EYaDIAIMeiDE324WhTtR2Vy",
     "image": "../old/images/datacamp.jpg",
@@ -621,7 +621,7 @@
   },
   {
     "title": "Data Scientist with R Track",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://drive.google.com/file/d/1jz6jHYzijOn1oUWyUfWm5i8aZ-mQyPYp/view?usp=sharing",
     "image": "../old/images/datacamp.jpg",
@@ -651,7 +651,7 @@
   },
   {
     "title": "Belajar Membangun LINE Front-end Framework",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.dicoding.com/users/148197/academies",
     "image": "../old/images/dicoding.jpg",
@@ -661,7 +661,7 @@
   },
   {
     "title": "Menjadi Azure Cloud Developer",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.dicoding.com/users/148197/academies",
     "image": "../old/images/dicoding.jpg",
@@ -671,7 +671,7 @@
   },
   {
     "title": "Belajar Dasar-Dasar Azure Cloud",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.dicoding.com/users/148197/academies",
     "image": "../old/images/dicoding.jpg",
@@ -681,7 +681,7 @@
   },
   {
     "title": "Belajar Membuat Aplikasi Android untuk Pemula",
-    "category": "learning",
+    "category": "course",
     "type": "cloud",
     "url": "https://www.dicoding.com/users/148197/academies",
     "image": "../old/images/dicoding.jpg",
