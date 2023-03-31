@@ -124,7 +124,7 @@
         // buat card secara dinamis menggunakan DOM
         for (var i = 0; i < data.length; i++) {
           // cek apakah data sesuai dengan filter saat ini
-          if (currentFilter == "all" || data[i].category == currentFilter) {
+          if (currentFilter == "all" || data[i].type == currentFilter) {
             var colDiv = document.createElement("div");
             colDiv.classList.add(
               "col-lg-2",
@@ -149,7 +149,11 @@
             overlayDiv.classList.add("overlay");
 
             var imgGalAnchor = document.createElement("a");
-            imgGalAnchor.href = data[i].url;
+            imgGalAnchor.href =
+              `credential.html?title=` +
+              data[i].title +
+              `&type=` +
+              data[i].type;
             imgGalAnchor.classList.add("img-gal");
 
             var iconDiv = document.createElement("div");
@@ -165,7 +169,11 @@
             titleH4.innerText = data[i].title;
 
             var titleLink = document.createElement("a");
-            titleLink.href = data[i].url;
+            titleLink.href =
+              `credential.html?title=` +
+              data[i].title +
+              `&type=` +
+              data[i].type;
             titleLink.appendChild(titleH4);
 
             var categoryP = document.createElement("p");

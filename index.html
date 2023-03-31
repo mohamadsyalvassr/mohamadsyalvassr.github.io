@@ -626,11 +626,13 @@
             subtitleP.innerHTML =
               `I successfully completed this ` +
               data[i].category +
-              " " +
+              " on " +
               data[i].date +
               `<br><a
-              href="` +
-              data[i].url +
+              href="page/credential.html?title=` +
+              data[i].title +
+              `&type=` +
+              data[i].type +
               `" target="_blank"
               class="btn btn-sm btn-outline-primary rounded"
               role="button"
