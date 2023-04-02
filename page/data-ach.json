@@ -1,5 +1,20 @@
 [
   {
+    "title": "Problem Solving (Intermediate) Certificate",
+    "type": "challenge",
+    "category": "developer",
+    "url": "https://www.hackerrank.com/certificates/cb1cf7e70103",
+    "certUrl": "",
+    "validationNumber": "cb1cf7e70103",
+    "validation": "",
+    "image": "../assets/imgs/cert/HackerRank.jpg",
+    "pdf": "https://www.hackerrank.com/certificates/iframe/cb1cf7e70103",
+    "description": "It covers topics of Data Structures (such as HashMaps, Stacks and Queues) and Algorithms (such as Optimal Solutions).",
+    "date": "2 Apr, 2023",
+    "expired": "-",
+    "issued": "HackerRank"
+  },
+  {
     "title": "SQL (Advanced) Certificate",
     "type": "challenge",
     "category": "developer",
