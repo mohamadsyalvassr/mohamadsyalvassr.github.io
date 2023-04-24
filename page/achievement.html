@@ -167,7 +167,7 @@
             shortInfoDiv.classList.add("short_info");
 
             var titleH4 = document.createElement("h5");
-            titleH4.innerText = data[i].title;
+            titleH4.innerHTML = data[i].title;
 
             var titleLink = document.createElement("a");
             titleLink.href =
@@ -178,7 +178,7 @@
             titleLink.appendChild(titleH4);
 
             var categoryP = document.createElement("p");
-            categoryP.innerText = data[i].issued;
+            categoryP.innerHTML = data[i].issued;
 
             iconDiv.appendChild(crossSpan);
             imgGalAnchor.appendChild(iconDiv);
