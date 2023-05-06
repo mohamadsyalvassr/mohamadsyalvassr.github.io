@@ -1,5 +1,37 @@
 [
   {
+    "title": "Apsara Clouder Cloud Computing - Operate and Manage a Cloud Server",
+    "type": "certification",
+    "category": "cloud",
+    "url": "",
+    "certUrl": "https://edu.alibabacloud.com/certification/clouder_cloudserver?spm=a2c4d.11423077.0.0.783412dbjTwQht",
+    "skills": "Alibaba Cloud, Alibaba Cloud Computing, Cloud Platform, Cloud Services",
+    "validationNumber": "",
+    "validation": "",
+    "image": "../assets/imgs/cert/apsara-aclc03.png",
+    "pdf": "../pdf/certificate/aca-cloud-certificate.pdf",
+    "description": "Alibaba Cloud Certification Associate (ACA - Alibaba Cloud Certification Associate) is a certification designed for those who can use Alibaba Cloud Computing products. It covers all of Alibaba Cloud's core products from computing and storage, to networking and security.",
+    "date": "May 05, 2023",
+    "expired": "May 05, 2025",
+    "issued": "Alibaba"
+  },
+  {
+    "title": "ACA Cloud Computing",
+    "type": "certification",
+    "category": "cloud",
+    "url": "",
+    "certUrl": "https://edu.alibabacloud.com/certification/aca_cloudcomputing",
+    "skills": "Alibaba Cloud, Alibaba Cloud Computing, Cloud Platform, Cloud Services",
+    "validationNumber": "",
+    "validation": "",
+    "image": "../assets/imgs/cert/aca-cloud.png",
+    "pdf": "../pdf/certificate/aca-cloud-certificate.pdf",
+    "description": "Alibaba Cloud Certification Associate (ACA - Alibaba Cloud Certification Associate) is a certification designed for those who can use Alibaba Cloud Computing products. It covers all of Alibaba Cloud's core products from computing and storage, to networking and security.",
+    "date": "May 04, 2023",
+    "expired": "May 04, 2025",
+    "issued": "Alibaba"
+  },
+  {
     "title": "AWS re/Start Graduate",
     "type": "academy",
     "category": "cloud",
