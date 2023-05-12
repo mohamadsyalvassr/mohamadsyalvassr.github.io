@@ -686,8 +686,8 @@
 
             var titleH6 = document.createElement("h6");
             titleH6.classList.add("title");
-            var titleText = data[i].title.substring(0, 35);
-            if (data[i].title.length > 35) {
+            var titleText = data[i].title.substring(0, 40);
+            if (data[i].title.length > 40) {
               titleText += " ...";
             }
 
@@ -706,7 +706,7 @@
               data[i].type +
               `" target="_blank"
               >` +
-              data[i].title +
+              titleText +
               `</a>`;
 
             var subtitleP = document.createElement("p");
