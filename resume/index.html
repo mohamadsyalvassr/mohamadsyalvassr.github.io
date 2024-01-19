@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+    <title>Mohamad Syalva Syalabi Rosyidy</title>
+    <style>
+      .about-me {
+        font-style: italic;
+        color: #555;
+      }
+      .category {
+        display: block; /* Tampilkan kategori secara default */
+      }
+
+      .toggle-btn {
+        margin-bottom: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container mt-5">
+      <div id="header"></div>
+      <p id="result"></p>
+
+      <button class="btn btn-link toggle-btn" data-target="experience">
+        Show Experience
+      </button>
+
+      <button class="btn btn-link toggle-btn" data-target="projects">
+        Show Projects
+      </button>
+
+      <button class="btn btn-link toggle-btn" data-target="education">
+        Show Education
+      </button>
+
+      <button
+        class="btn btn-link toggle-btn"
+        data-target="organizationalExperience"
+      >
+        Show Organizational Experience
+      </button>
+
+      <button class="btn btn-link toggle-btn" data-target="skillsAchievements">
+        Show Skills Achievements
+      </button>
+
+      <button class="btn btn-link toggle-btn" data-target="certifications">
+        Show Certifications
+      </button>
+
+      <div class="category" id="experience" style="display: none"></div>
+      <div class="category" id="projects" style="display: none"></div>
+      <div class="category" id="education" style="display: none"></div>
+      <div
+        class="category"
+        id="organizationalExperience"
+        style="display: none"
+      ></div>
+      <div class="category" id="skillsAchievements" style="display: none"></div>
+      <div class="category" id="certifications" style="display: none"></div>
+      <!-- Add more sections as needed -->
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

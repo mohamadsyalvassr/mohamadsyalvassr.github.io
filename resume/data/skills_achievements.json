@@ -1,0 +1,37 @@
+{
+  "languages": ["English", "Native Bahasa Indonesia"],
+  "hardSkills": [
+    "PHP",
+    "JavaScript",
+    "Python",
+    "Laravel",
+    "Bootstrap",
+    "Tailwind CSS",
+    "Git",
+    "HTML",
+    "CSS",
+    "Cloud",
+    "MySQL",
+    "PostgreSQL",
+    "jQuery",
+    "WordPress",
+    "API",
+    "Linux Server",
+    "Golang",
+    "Gin Gonic",
+    "GraphQL",
+    "Cloud Computing",
+    "Chef",
+    "Adobe Family",
+    "Microsoft Office",
+    "Linux Server"
+  ],
+  "beginnerSkills": [
+    "DevOps",
+    "GitOps",
+    "Argo CD",
+    "Docker",
+    "Kubernetes",
+    "Terraform"
+  ]
+}

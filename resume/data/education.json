@@ -1,0 +1,117 @@
+[
+  {
+    "degree": "Associate Degree in Computer Engineering, 3.86/4.00",
+    "school": "Polytechnic Sukabumi",
+    "location": "Sukabumi",
+    "date": "2016 - 2019",
+    "description": "I have experience as a assistant lecturer, providing guidance to students, conducting tutorial sessions, and supporting course material development. This experience has enhanced my understanding of the subject matter and honed my communication and leadership skills. "
+  },
+  {
+    "course": "Certificate in Cloud",
+    "institution": "Alibaba Cloud Academy",
+    "location": "Online",
+    "date": "May 2023 - Present",
+    "description": "I have successfully completed a self-paced, course-based skills development and training program at Alibaba Cloud Academy. Throughout the program, I acquired knowledge on applying core Alibaba Cloud services in various domains such as compute, storage, networking, machine learning, development tools, and others. Additionally, I gained proficiency in configuring, monitoring, and providing support for the suite of core Alibaba Cloud services."
+  },
+  {
+    "course": "Certificate in API Penetration Testing",
+    "institution": "API Penetration Testing",
+    "location": "Online",
+    "date": "May 2023 – Jul 2023",
+    "description": [
+      "Completed self-paced, course-based skills development and training program on API Security",
+      "Learn about the API Reconnaissance, Endpoint Analysis, API Authentication Attacks, Exploiting API Authorization and API Testing.",
+      "Learn about various tools to analyze APIs, find vulnerabilities, and keep APIs secure: including Arjun, Burp Suite, Gobuster and others."
+    ]
+  },
+  {
+    "course": "AWS re/Start Program ",
+    "institution": "Amazon Web Services Training & Certification",
+    "location": "Online",
+    "date": "May 2023 – Jul 2023",
+    "description": [
+      "Completed full-time, classroom-based skills development and training program on IT fundamentals, AWS Cloud, and professional skills.",
+      "Built IT fundamental skills, including working knowledge of Linux OS, writing scripts in Python and Shell",
+      "Learned how to apply core AWS services in the areas of compute, storage and networking; including EC2, S3, IAM, VPC, Lambda, Cloud Formation, RDS and Route 53.",
+      "Demonstrated strong verbal and written communication skills, including the ability to explain technical information and terminology to non-technical end users.",
+      "Learned how to configure, monitor, and support the suite of core AWS services."
+    ]
+  },
+  {
+    "course": "AWS re/Start Program ",
+    "institution": "Amazon Web Services Training & Certification",
+    "location": "Online",
+    "date": "May 2023 – Jul 2023",
+    "description": [
+      "Completed full-time, classroom-based skills development and training program on IT fundamentals, AWS Cloud, and professional skills.",
+      "Built IT fundamental skills, including working knowledge of Linux OS, writing scripts in Python and Shell",
+      "Learned how to apply core AWS services in the areas of compute, storage and networking; including EC2, S3, IAM, VPC, Lambda, Cloud Formation, RDS and Route 53.",
+      "Demonstrated strong verbal and written communication skills, including the ability to explain technical information and terminology to non-technical end users.",
+      "Learned how to configure, monitor, and support the suite of core AWS services."
+    ]
+  },
+  {
+    "course": "Junior Cybersecurity Analyst – Cisco Academy",
+    "institution": "Cisco Academy",
+    "location": "Online",
+    "date": "Jun 2022 - Mar 2023",
+    "description": [
+      "Completed self-paced, course-based skills development and training program at Cisco Academy.",
+      "Learned techniques to monitor and protect networks, including firewall management, cloud security, and cryptography.",
+      "Acquired skills in performing network vulnerability assessments and creating risk management plans, including forensic investigations."
+    ]
+  },
+  {
+    "course": "API Specialty Program",
+    "institution": "Unspecified",
+    "location": "Online",
+    "date": "Sep 2022 - Mar 2023",
+    "description": [
+      "Completed self-paced, course-based skills development and training program on API Designer, API Security Architect, and API Product Manager.",
+      "Built API fundamentals, including fundamental knowledge of APIs, API economy, API design, and API lifecycle.",
+      "Learned how to secure APIs using modern architectures, including OAuth 2.0, OpenID Connect, and JWT.",
+      "Acquired skills in managing APIs as products."
+    ]
+  },
+  {
+    "course": "AWS Academy Cloud Developer – Jakarta, DKI Jakarta",
+    "institution": "AWS Academy Cloud Developing",
+    "location": "Jakarta, DKI Jakarta",
+    "date": "Sep 2022 – Oct 2022",
+    "description": [
+      "Completed full-time, classroom-based skills development and training program at AWS Academy Cloud Developing.",
+      "Built IT fundamental skills, including writing scripts in Python.",
+      "Learned about DevOps tools on AWS, including Elastic Beanstalk, Fargate, ECS, EKS, Lambda, API Gateway, and DynamoDB."
+    ]
+  },
+  {
+    "course": "GitOps Certification Program",
+    "institution": "codefresh academy",
+    "location": "Online",
+    "date": "Aug 2022 – Sep 2022",
+    "description": [
+      "Completed self-paced, course-based skills development and training program at codefresh academy.",
+      "Learned how to configure, manage, and monitor Argo CD.",
+      "Learned how to use Argo Rollouts for Blue/Green and Canary deployments."
+    ]
+  },
+  {
+    "course": "Data Scientist with Python Track",
+    "institution": "DataCamp",
+    "location": "Online",
+    "date": "Oct 2019 – Dec 2019",
+    "description": [
+      "Completed self-paced, course-based skills development and training program at DataCamp."
+    ]
+  },
+  {
+    "course": "Dicoding Academy Indonesia – Indonesia",
+    "institution": "Dicoding Academy",
+    "location": "Online",
+    "date": "2019 - 2022",
+    "description": [
+      "Completed self-paced, course-based skills development and training program.",
+      "Learned on multiple paths, such as Back-end Learning Path, DevOps Learning Path, and Android Learning Path."
+    ]
+  }
+]

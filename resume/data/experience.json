@@ -1,0 +1,74 @@
+[
+  {
+    "position": "Backend Developer",
+    "company": "PT. Duta Digital Nusantara",
+    "location": "South Jakarta",
+    "startDate": "Jul 2023",
+    "endDate": "Present",
+    "description": "Develop a meticulously crafted website and API, while also managing and enhancing existing code to boost web performance; foster collaboration with designers, analysts, testers, and fellow team members, engaging with stakeholders; assimilate knowledge of business processes from stakeholders; utilize the tech stack comprising Laravel Framework, Golang, MySQL/MariaDB, PostgreSQL, GitHub, and GraphQL."
+  },
+  {
+    "position": "Lecturer",
+    "company": "Polytechnic Sukabumi",
+    "location": "",
+    "startDate": "Jan 2023",
+    "endDate": "Present",
+    "description": "As an experienced Practitioner Lecturer, I am dedicated to imparting knowledge in two key areas, namely Wireless Networking and Artificial Intelligence (AI). Throughout my teaching tenure, I have successfully guided and delivered course materials to a total of 40 students with unwavering commitment.\nIn the Wireless Networking course, I bring a profound understanding of contemporary concepts and technologies within this domain. I ensure that each student masters the fundamental principles of wireless networks, including design, implementation, and management. Employing a hands-on approach, I encourage students to engage in real-world projects that enhance their understanding of the practical applications of wireless networks in an industrial context.\nOn the other hand, as an instructor for the AI course, I guide students through core concepts in artificial intelligence, ranging from machine learning to neural networks. I focus on the application of AI in solving real-world problems and encourage students to develop practical skills in \nWith practical experience and a deep understanding of both courses, I strive to create a learning environment that inspires, motivates, and fosters academic and professional growth for each student."
+  },
+  {
+    "position": "Software Engineer",
+    "company": "Freelance",
+    "location": "",
+    "startDate": "Sept 2019",
+    "endDate": "Jul 2023",
+    "description": "Ensure project advancement through the compilation and oversight of development schedules; address technical challenges pertaining to the website, including bug resolution and security concerns; assess the requirements of web applications and provide development recommendations; collaborate closely with the team to comprehend client requirements and formulate appropriate solutions; employ a tech stack encompassing Laravel Framework, MySQL/MariaDB, PostgreSQL, GitHub, Bootstrap, and Tailwind CSS."
+  },
+  {
+    "position": "IT Infrastructure – Project-Based Virtual Intern",
+    "company": "AEON Credit Service Indonesia x Rakamin Academy",
+    "location": "",
+    "startDate": "Jun 2023",
+    "endDate": "Jul 2023",
+    "description": "Navigated daily challenges, case studies, and projects integral to the routine at AEON Credit Service Indonesia, collaborating with diverse teams, particularly the Infrastructure Team; cultivated teamwork skills and acquired valuable practical experience in a professional business environment; utilized a tech stack encompassing Azure Cloud, Oracle Database, Linux, Apache, Windows Server, and Gitlab."
+  },
+  {
+    "position": "Information Technology Software Engineering",
+    "company": "PT. Pratama Abadi Industri",
+    "location": "",
+    "startDate": "Apr 2022",
+    "endDate": "Jul 2022",
+    "description": "Engineered an FTP Updater application in VB.NET, streamlining file transfer and synchronization between local and remote servers; established a comprehensive Web Application Inventory system using the Laravel framework for efficient tracking and management of application assets; designed and implemented RESTful APIs in Laravel, facilitating seamless communication and data exchange with partner systems; adeptly addressed technical issues in web and desktop applications, including bug fixes and security enhancements; assessed the needs of web and desktop applications, offering insightful development recommendations; collaborated with a team of 14 programmers and 2 implementers to comprehend company requirements and devise suitable solutions; leveraged a tech stack comprising Windows Server, Nginx, Apache, Laravel, Bootstrap, MySQL, VB6, and SQL Server."
+  },
+  {
+    "position": "Information Technology Support",
+    "company": "CV. Sobat Technopreneur",
+    "location": "",
+    "startDate": "May 2021",
+    "endDate": "May 2022",
+    "description": "Effectively engineered an internal system through the Laravel framework, optimizing and automating internal processes, thereby enhancing overall efficiency and productivity. Leveraged creative skills to design visually appealing graphics for daily posts, significantly boosting the brand's online presence and audience engagement. Applied video editing and production expertise to craft compelling short videos for marketing purposes, effectively capturing the target audience's attention and promoting the brand and its products."
+  },
+  {
+    "position": "Freelance Network Engineer",
+    "company": "PT. Sumber Wahana Sejati",
+    "location": "",
+    "startDate": "Oct 2019",
+    "endDate": "Nov 2019",
+    "description": "Proficiently designed and implemented both wired and wireless networks utilizing CPE devices and MikroTik; strategically planned, configured, and maintained robust and efficient network infrastructures; adeptly addressed challenges in optimizing network performance, elevating data transfer speeds, and fortifying system security and reliability; actively engaged in troubleshooting, network monitoring, and prompt resolution of technical issues as they emerged."
+  },
+  {
+    "position": "Assistant Trainer",
+    "company": "Sukabumi Regency Archives and Library Office",
+    "location": "",
+    "startDate": "Mar 2019",
+    "endDate": "Jul 2019",
+    "description": "Served as an Assistant Trainer for Graphic Design courses, overseeing the delivery of course materials and offering additional explanations to UMKM participants. Provided guidance and support to 25 UMKM participants, aiding in their comprehension of the taught concepts."
+  },
+  {
+    "position": "Assistant Lecturer",
+    "company": "Polytechnic Sukabumi",
+    "location": "",
+    "startDate": "Feb 2019 ",
+    "endDate": "Apr 2020 ",
+    "description": "As an Assistant Lecturer, I was responsible for delivering course materials and offering additional explanations to students in Computer Architecture, Network 2, Visual Studio, and Graphic Design courses. I provided guidance and assistance to 40 students, aiding them in understanding the taught concepts."
+  }
+]

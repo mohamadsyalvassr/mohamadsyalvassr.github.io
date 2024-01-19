@@ -1,0 +1,218 @@
+[
+  {
+    "name": "MikroTik Certified Network Associate",
+    "issuedBy": "MikroTik",
+    "issueYear": "2020",
+    "expirationYear": "2023",
+    "credentialID": "B180028C935E4E7385D6",
+    "verificationLink": "https://mikrotik.com/training/certificates/b180028c935e4e7385d6"
+  },
+  {
+    "name": "Remote Work Professional Certification - RWPC™",
+    "issuedBy": "CertiProf",
+    "issueYear": "2022",
+    "expirationYear": "2024",
+    "credentialID": "",
+    "verificationLink": "https://www.credly.com/badges/42a51d50-5035-4f96-bacd-55cdd4f33f65"
+  },
+  {
+    "name": "Google Ads Display Certification",
+    "issuedBy": "Google",
+    "issueYear": "2022",
+    "expirationYear": "2023",
+    "credentialID": "",
+    "verificationLink": "https://www.credential.net/35e7a4d5-0e8b-44c2-9e41-45eb96ad98f3"
+  },
+  {
+    "name": "Google Ads Search Certification",
+    "issuedBy": "Google",
+    "issueYear": "2022",
+    "expirationYear": "2023",
+    "credentialID": "",
+    "verificationLink": "https://www.credential.net/0fdde866-4bca-4fde-b730-c131b2e5632d"
+  },
+  {
+    "name": "Google Ads Video Certification",
+    "issuedBy": "Google",
+    "issueYear": "2022",
+    "expirationYear": "2023",
+    "credentialID": "",
+    "verificationLink": "https://www.credential.net/c9601aad-e377-4531-8f84-3f57954b75ed"
+  },
+  {
+    "name": "Microsoft Advertising Certified Professional",
+    "issuedBy": "Microsoft",
+    "issueYear": "2022",
+    "expirationYear": "2023",
+    "credentialID": "",
+    "verificationLink": "https://www.credly.com/badges/1e881b6c-0221-4e7d-877b-5432db5792fb"
+  },
+  {
+    "name": "ArangoDB Certified Professional",
+    "issuedBy": "ArangoDB",
+    "issueYear": "2023",
+    "expirationYear": "",
+    "credentialID": "",
+    "verificationLink": ""
+  },
+  {
+    "name": "cPanel Professional Certification (CPP)",
+    "issuedBy": "cPanel",
+    "issueYear": "2022",
+    "expirationYear": "2023",
+    "credentialID": "414141",
+    "verificationLink": "https://university.cpanel.net/user/414141#certificates"
+  },
+  {
+    "name": "Fortinet Certified Fundamentals Cybersecurity",
+    "issuedBy": "Fortinet",
+    "issueYear": "2023",
+    "expirationYear": "",
+    "credentialID": "",
+    "verificationLink": "https://www.credly.com/earner/earned/badge/e53378b7-c3d6-4af7-9839-93c447cc3224"
+  },
+  {
+    "name": "Oracle Cloud Infrastructure 2022 Certified Foundations Associate",
+    "issuedBy": "Oracle",
+    "issueYear": "2023",
+    "expirationYear": "2025",
+    "credentialID": "",
+    "verificationLink": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=EFDD75B71DC87F8A52AD8CD78BBE702F805BC1E953703C2177FD8C83501AC78B"
+  },
+  {
+    "name": "Oracle Cloud Data Management 2022 Foundations Certified Associate",
+    "issuedBy": "Oracle",
+    "issueYear": "2023",
+    "expirationYear": "2025",
+    "credentialID": "",
+    "verificationLink": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=E124731A9DE75EB01384918509A1DA71563A74FCD4EC7BD7236F63D26FDFD49B"
+  },
+  {
+    "name": "GitOps Certified Fundamentals",
+    "issuedBy": "codefresh",
+    "issueYear": "2023",
+    "expirationYear": "",
+    "credentialID": "",
+    "verificationLink": ""
+  },
+  {
+    "name": "GitOps Certified at Scale",
+    "issuedBy": "codefresh",
+    "issueYear": "2023",
+    "expirationYear": "",
+    "credentialID": "",
+    "verificationLink": ""
+  },
+  {
+    "name": "Chef Principles Certification",
+    "issuedBy": "Progress Chef",
+    "issueYear": "2023",
+    "expirationYear": "2025",
+    "credentialID": "",
+    "verificationLink": "https://badges.chef.io/public/assertions/QGH7DJv0TxeprCm-0XoyDg"
+  },
+  {
+    "name": "AWS Certified Cloud Practitioner",
+    "issuedBy": "AWS Training and Certification",
+    "issueYear": "2023",
+    "expirationYear": "2026",
+    "credentialID": "HV4815SK42FEQL3R",
+    "verificationLink": "https://aws.amazon.com/verification"
+  },
+  {
+    "name": "JumpCloud Core Certified",
+    "issuedBy": "JumpCloud",
+    "issueYear": "2023",
+    "expirationYear": "2025",
+    "credentialID": "",
+    "verificationLink": ""
+  },
+  {
+    "name": "ACA Cloud Computing",
+    "issuedBy": "Alibaba Cloud",
+    "issueYear": "2023",
+    "expirationYear": "2025",
+    "credentialID": "IACA01230500090974L",
+    "verificationLink": "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=IACA01230500090974L."
+  },
+  {
+    "name": "ACA Cloud Security",
+    "issuedBy": "Alibaba Cloud",
+    "issueYear": "2023",
+    "expirationYear": "2025",
+    "credentialID": "IACA02230600092640L",
+    "verificationLink": "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=IACA02230600092640L"
+  },
+  {
+    "name": "ACA Cloud Native",
+    "issuedBy": "Alibaba Cloud",
+    "issueYear": "2023",
+    "expirationYear": "2025",
+    "credentialID": "IACA05230600093619L",
+    "verificationLink": "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=IACA05230600093619L"
+  },
+  {
+    "name": "Alibaba Cloud DevOps Specialty Certification",
+    "issuedBy": "Alibaba Cloud",
+    "issueYear": "2023",
+    "expirationYear": "2025",
+    "credentialID": "SPEC02230700097054",
+    "verificationLink": "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=SPEC02230700097054"
+  },
+  {
+    "name": "ACP Cloud Networking",
+    "issuedBy": "Alibaba Cloud",
+    "issueYear": "2023",
+    "expirationYear": "2025",
+    "credentialID": "IACP08230700096880",
+    "verificationLink": "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=IACP08230700096880"
+  },
+  {
+    "name": "ACP Cloud Computing",
+    "issuedBy": "Alibaba Cloud",
+    "issueYear": "2023",
+    "expirationYear": "2025",
+    "credentialID": "IACP01230700097236",
+    "verificationLink": "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=IACP01230700097236"
+  },
+  {
+    "name": "ACA Business User",
+    "issuedBy": "Alibaba Cloud",
+    "issueYear": "2023",
+    "expirationYear": "2025",
+    "credentialID": "IACA09230700095848L",
+    "verificationLink": "https://edu.alibabacloud.com/clouder/Certificate/search?type=2&num=IACA09230700095848L"
+  },
+  {
+    "name": "ACA Big Data",
+    "issuedBy": "Alibaba Cloud",
+    "issueYear": "2023",
+    "expirationYear": "2025",
+    "credentialID": "IACA03230700095191L",
+    "verificationLink": "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=IACA03230700095191L"
+  },
+  {
+    "name": "Alibaba Cloud Certified Developer",
+    "issuedBy": "Alibaba Cloud",
+    "issueYear": "2023",
+    "expirationYear": "2025",
+    "credentialID": "ACCD0119700100000550",
+    "verificationLink": "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=ACCD0119700100000550"
+  },
+  {
+    "name": "Gremlin Certified Enterprise Chaos Engineering Certification",
+    "issuedBy": "Gremlin",
+    "issueYear": "2024",
+    "expirationYear": "",
+    "credentialID": "",
+    "verificationLink": "https://www.credential.net/d498a042-f110-4f4b-8000-ec9ac0521a48"
+  },
+  {
+    "name": "Graph Developer Associate",
+    "issuedBy": "Apollo GraphQL",
+    "issueYear": "2024",
+    "expirationYear": "",
+    "credentialID": "",
+    "verificationLink": "https://www.apollographql.com/tutorials/certifications/e08bf433-59a3-437c-9d55-22c45a226f5f"
+  }
+]

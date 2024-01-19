@@ -1,0 +1,168 @@
+[
+  {
+    "name": "BUMICODE ERP",
+    "startDate": "Nov 2022",
+    "endDate": "Present",
+    "url": "https://github.com/bumicode/erp",
+    "role": "Self-Project - Full Stack Developer",
+    "details": [
+      "Analyzing business processes based on general Company needs.",
+      "Create and Design Accounting, Sales, CRM, HR, and Inventory features.",
+      "Tech stack: Laravel, Redis, PostgreSQL, Git"
+    ]
+  },
+  {
+    "name": "Golden Rama Hotel Microservices",
+    "startDate": "Jan 2024",
+    "endDate": "Present",
+    "url": "https://goldenrama.com/",
+    "role": "Backend Developer",
+    "details": [
+      "Analyzing business processes based on travel company needs.",
+      "Resolve technical issues related to the APIs, such as fixing bugs or addressing security issues.",
+      "Work closely with the team to understand client needs and develop suitable solutions.",
+      "Tech stack: Golang, PostgreSQL, Git, GitOps, EKS (Elastic Kubernetes Services), Docker"
+    ]
+  },
+  {
+    "name": "Golden Rama Tour Microservices",
+    "startDate": "Nov 2023",
+    "endDate": "Dec 2023",
+    "url": "https://goldenrama.com/",
+    "role": "Backend Developer",
+    "details": [
+      "Analyzing business processes based on travel company needs.",
+      "Resolve technical issues related to the APIs, such as fixing bugs or addressing security issues.",
+      "Work closely with the team to understand client needs and develop suitable solutions.",
+      "Tech stack: Golang, PostgreSQL, Git, GitOps, EKS (Elastic Kubernetes Services), Docker"
+    ]
+  },
+  {
+    "name": "Golden Rama Flight Microservices",
+    "startDate": "Aug 2023",
+    "endDate": "Dec 2023",
+    "url": "https://goldenrama.com/",
+    "role": "Backend Developer",
+    "details": [
+      "Analyzing business processes based on travel company needs.",
+      "Resolve technical issues related to the APIs, such as fixing bugs or addressing security issues.",
+      "Work closely with the team to understand client needs and develop suitable solutions.",
+      "Tech stack: Lumen, PostgreSQL, Git, GitOps, EKS (Elastic Kubernetes Services), Docker"
+    ]
+  },
+  {
+    "name": "Ganjar Mahfud Microtargeting",
+    "startDate": "Jul 2023",
+    "endDate": "Aug 2023",
+    "url": "https://ganjarmahfud.app/",
+    "role": "Backend Developer",
+    "details": [
+      "Resolve technical issues related to the APIs, such as fixing bugs or addressing security issues.",
+      "Work closely with the team to understand client needs and develop suitable solutions.",
+      "Tech stack: Laravel, Redis, PostgreSQL, Git, GraphQL"
+    ]
+  },
+  {
+    "name": "Ganjar Mahfud App",
+    "startDate": "Jul 2023",
+    "endDate": "Aug 2023",
+    "url": "https://ganjarmahfud.app/",
+    "role": "Backend Developer",
+    "details": [
+      "Resolve technical issues related to the APIs, such as fixing bugs or addressing security issues.",
+      "Work closely with the team to understand client needs and develop suitable solutions.",
+      "Tech stack: Laravel, Redis, PostgreSQL, Git"
+    ]
+  },
+  {
+    "name": "Clinic's Information System",
+    "startDate": "Apr 2023",
+    "endDate": "Jul 2023",
+    "url": "",
+    "role": "Freelance Full Stack Developer",
+    "details": [
+      "Analyzing business processes based on the clinic’s needs.",
+      "Tech stack: Laravel, MySQL, Git, Bootstrap CSS"
+    ]
+  },
+  {
+    "name": "JDIH DPRD Kota Sukabumi",
+    "startDate": "Jan 2023",
+    "endDate": "Mar 2023",
+    "url": "https://jdih-dprd.sukabumikota.go.id/",
+    "role": "WordPress Developer",
+    "details": [
+      "Analyzing business processes based on needs.",
+      "Work closely with the team to understand client needs and develop suitable solutions",
+      "Tech stack: WordPress, MySQL"
+    ]
+  },
+  {
+    "name": "Landing Page Bouna Slipper",
+    "startDate": "Jan 2023",
+    "endDate": "Feb 2023",
+    "url": "https://belipedia.my.id/ads/bouna/",
+    "role": "WordPress Developer",
+    "details": [
+      "Analyzing business processes based on needs.",
+      "Work closely with the team to understand client needs and develop suitable solutions",
+      "Tech stack: WordPress, Elementor, Adobe Photoshop"
+    ]
+  },
+  {
+    "name": "Warehouse Information System",
+    "startDate": "Apr 2022",
+    "endDate": "May 2022",
+    "url": "",
+    "role": "Desktop Developer",
+    "details": [
+      "Analyzing business processes based on company needs.",
+      "Resolve technical issues related to the website, such as fixing bugs or addressing security issues.",
+      "Tech stack: Laravel, MySQL, Windows Server, VB6"
+    ]
+  },
+  {
+    "name": "Sistem Informasi Beasiswa DISPORA Kabupaten Bogor",
+    "startDate": "Feb 2022",
+    "endDate": "Aug 2022",
+    "url": "https://beasiswapancakarsa.bogorkab.go.id/",
+    "role": "Freelance Full Stack Developer",
+    "details": [
+      "Analyzing the scholarship process based on the needs.",
+      "Resolve technical issues related to the website, such as fixing bugs or addressing security issues.",
+      "Tech stack: Laravel, Tailwind CSS, MySQL"
+    ]
+  },
+  {
+    "name": "Widescape Management, Sobat Technopreneur",
+    "startDate": "May 2021",
+    "endDate": "May 2022",
+    "url": "https://sobattechnopreneur.com/",
+    "role": "Full Stack Developer",
+    "details": [
+      "Analyzing business processes based on company needs.",
+      "Resolve technical issues related to the website, such as fixing bugs or addressing security issues.",
+      "Tech stack: Laravel, Bootstrap CSS, MySQL"
+    ]
+  },
+  {
+    "name": "Village Information System",
+    "startDate": "Nov 2019",
+    "endDate": "Aug 2020",
+    "url": "https://sidsaiagi.azurewebsites.net/",
+    "role": "Freelance Full Stack Developer",
+    "details": [
+      "Analyzing business processes based on village needs.",
+      "Work closely with the team to understand client needs and develop suitable solutions.",
+      "Tech stack: CodeIgniter, Bootstrap CSS, MySQL"
+    ]
+  },
+  {
+    "name": "Aplikasi Potensi Wilayah dengan Sistem Informasi Geografis Berbasis Web dan Mobile",
+    "startDate": "Sep 2019",
+    "endDate": "Feb 2020",
+    "url": "http://ponwil-sukabumikab.web.id/",
+    "role": "Freelance Full Stack Developer",
+    "details": ["Tech stack: Laravel, Bootstrap CSS, MySQL"]
+  }
+]
