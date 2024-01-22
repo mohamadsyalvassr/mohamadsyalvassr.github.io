@@ -23,10 +23,28 @@
       .toggle-btn {
         margin-bottom: 10px;
       }
+      .font-size-btn {
+        font-size: 16px; /* Ukuran font awal */
+        width: 30px; /* Lebar tombol */
+        height: 30px; /* Tinggi tombol */
+        cursor: pointer;
+      }
+      .size-btn {
+        font-size: 16px; /* Ukuran font awal */
+        height: 30px; /* Tinggi tombol */
+        cursor: pointer;
+      }
     </style>
   </head>
   <body>
     <div class="container mt-5">
+      <button id="increase-font-size" class="font-size-btn">+</button>
+      <button id="decrease-font-size" class="font-size-btn">-</button>
+      <button id="decrease-font-size" class="size-btn" disabled>Print</button>
+      <button id="decrease-font-size" class="size-btn" disabled>
+        Download Resume
+      </button>
+
       <div id="header"></div>
       <p id="result"></p>
 

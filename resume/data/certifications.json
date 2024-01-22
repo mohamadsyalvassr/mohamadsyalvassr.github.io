@@ -2,8 +2,8 @@
   {
     "name": "MikroTik Certified Network Associate",
     "issuedBy": "MikroTik",
-    "issueYear": "2020",
-    "expirationYear": "2023",
+    "issueYear": "20 Jan 2020",
+    "expirationYear": "20 Jan 2023",
     "credentialID": "B180028C935E4E7385D6",
     "verificationLink": "https://mikrotik.com/training/certificates/b180028c935e4e7385d6"
   },
@@ -51,7 +51,7 @@
     "name": "ArangoDB Certified Professional",
     "issuedBy": "ArangoDB",
     "issueYear": "2023",
-    "expirationYear": "",
+    "expirationYear": "2025",
     "credentialID": "",
     "verificationLink": ""
   },
@@ -66,24 +66,24 @@
   {
     "name": "Fortinet Certified Fundamentals Cybersecurity",
     "issuedBy": "Fortinet",
-    "issueYear": "2023",
-    "expirationYear": "",
+    "issueYear": "February 25, 2023",
+    "expirationYear": "February 25, 2025",
     "credentialID": "",
-    "verificationLink": "https://www.credly.com/earner/earned/badge/e53378b7-c3d6-4af7-9839-93c447cc3224"
+    "verificationLink": "https://www.credly.com/badges/e53378b7-c3d6-4af7-9839-93c447cc3224/public_url"
   },
   {
     "name": "Oracle Cloud Infrastructure 2022 Certified Foundations Associate",
     "issuedBy": "Oracle",
-    "issueYear": "2023",
-    "expirationYear": "2025",
+    "issueYear": "05 January 2023",
+    "expirationYear": "05 January 2025",
     "credentialID": "",
     "verificationLink": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=EFDD75B71DC87F8A52AD8CD78BBE702F805BC1E953703C2177FD8C83501AC78B"
   },
   {
     "name": "Oracle Cloud Data Management 2022 Foundations Certified Associate",
     "issuedBy": "Oracle",
-    "issueYear": "2023",
-    "expirationYear": "2025",
+    "issueYear": "11 January 2023",
+    "expirationYear": "11 January 2025",
     "credentialID": "",
     "verificationLink": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=E124731A9DE75EB01384918509A1DA71563A74FCD4EC7BD7236F63D26FDFD49B"
   },
@@ -91,7 +91,7 @@
     "name": "GitOps Certified Fundamentals",
     "issuedBy": "codefresh",
     "issueYear": "2023",
-    "expirationYear": "",
+    "expirationYear": "2025",
     "credentialID": "",
     "verificationLink": ""
   },
@@ -99,23 +99,24 @@
     "name": "GitOps Certified at Scale",
     "issuedBy": "codefresh",
     "issueYear": "2023",
-    "expirationYear": "",
+    "expirationYear": "2025",
     "credentialID": "",
     "verificationLink": ""
   },
   {
     "name": "Chef Principles Certification",
     "issuedBy": "Progress Chef",
-    "issueYear": "2023",
-    "expirationYear": "2025",
+    "issueYear": "Mar 27, 2023",
+    "expirationYear": "Mar 28, 2025",
     "credentialID": "",
-    "verificationLink": "https://badges.chef.io/public/assertions/QGH7DJv0TxeprCm-0XoyDg"
+    "verificationLink": "https://badges.chef.io/public/assertions/QGH7DJv0TxeprCm-0XoyDg",
+    "description": "The Chef Principles award proves basic understanding of Chef Software's products, solutions and open-source tools."
   },
   {
     "name": "AWS Certified Cloud Practitioner",
     "issuedBy": "AWS Training and Certification",
-    "issueYear": "2023",
-    "expirationYear": "2026",
+    "issueYear": "2023-03-28",
+    "expirationYear": "2026-03-28",
     "credentialID": "HV4815SK42FEQL3R",
     "verificationLink": "https://aws.amazon.com/verification"
   },
@@ -128,7 +129,7 @@
     "verificationLink": ""
   },
   {
-    "name": "ACA Cloud Computing",
+    "name": "Alibaba Cloud Associate (ACA) Cloud Computing",
     "issuedBy": "Alibaba Cloud",
     "issueYear": "2023",
     "expirationYear": "2025",
@@ -136,7 +137,7 @@
     "verificationLink": "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=IACA01230500090974L."
   },
   {
-    "name": "ACA Cloud Security",
+    "name": "Alibaba Cloud Associate (ACA) Cloud Security",
     "issuedBy": "Alibaba Cloud",
     "issueYear": "2023",
     "expirationYear": "2025",
@@ -144,7 +145,7 @@
     "verificationLink": "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=IACA02230600092640L"
   },
   {
-    "name": "ACA Cloud Native",
+    "name": "Alibaba Cloud Associate (ACA) Cloud Native",
     "issuedBy": "Alibaba Cloud",
     "issueYear": "2023",
     "expirationYear": "2025",
@@ -160,7 +161,7 @@
     "verificationLink": "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=SPEC02230700097054"
   },
   {
-    "name": "ACP Cloud Networking",
+    "name": "Alibaba Cloud Professional (ACP) Cloud Networking",
     "issuedBy": "Alibaba Cloud",
     "issueYear": "2023",
     "expirationYear": "2025",
@@ -168,7 +169,7 @@
     "verificationLink": "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=IACP08230700096880"
   },
   {
-    "name": "ACP Cloud Computing",
+    "name": "Alibaba Cloud Professional (ACP) Cloud Computing",
     "issuedBy": "Alibaba Cloud",
     "issueYear": "2023",
     "expirationYear": "2025",
@@ -176,7 +177,7 @@
     "verificationLink": "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=IACP01230700097236"
   },
   {
-    "name": "ACA Business User",
+    "name": "Alibaba Cloud Associate (ACA) Business User",
     "issuedBy": "Alibaba Cloud",
     "issueYear": "2023",
     "expirationYear": "2025",
@@ -184,7 +185,7 @@
     "verificationLink": "https://edu.alibabacloud.com/clouder/Certificate/search?type=2&num=IACA09230700095848L"
   },
   {
-    "name": "ACA Big Data",
+    "name": "Alibaba Cloud Associate (ACA) Big Data",
     "issuedBy": "Alibaba Cloud",
     "issueYear": "2023",
     "expirationYear": "2025",
@@ -200,19 +201,52 @@
     "verificationLink": "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=ACCD0119700100000550"
   },
   {
+    "name": "Apollo Certified: Graph Developer - Professional",
+    "issuedBy": "Apollo GraphQL",
+    "issueYear": "1/17/2024",
+    "expirationYear": "",
+    "credentialID": "c72fd1e7-2e6d-4215-9d34-587ff4ed9a15",
+    "verificationLink": "https://www.apollographql.com/tutorials/certifications/c72fd1e7-2e6d-4215-9d34-587ff4ed9a15"
+  },
+  {
+    "name": "Apollo Certified: Graph Developer - Associate",
+    "issuedBy": "Apollo GraphQL",
+    "issueYear": "1/15/2024",
+    "expirationYear": "",
+    "credentialID": "e08bf433-59a3-437c-9d55-22c45a226f5f",
+    "verificationLink": "https://www.apollographql.com/tutorials/certifications/e08bf433-59a3-437c-9d55-22c45a226f5f"
+  },
+  {
     "name": "Gremlin Certified Enterprise Chaos Engineering Certification",
     "issuedBy": "Gremlin",
-    "issueYear": "2024",
+    "issueYear": "14 January 2024",
     "expirationYear": "",
-    "credentialID": "",
+    "credentialID": "92037903",
     "verificationLink": "https://www.credential.net/d498a042-f110-4f4b-8000-ec9ac0521a48"
   },
   {
-    "name": "Graph Developer Associate",
-    "issuedBy": "Apollo GraphQL",
-    "issueYear": "2024",
-    "expirationYear": "",
+    "name": "Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate",
+    "issuedBy": "Oracle",
+    "issueYear": "09 December 2023",
+    "expirationYear": "09 December 2025",
     "credentialID": "",
     "verificationLink": "https://www.apollographql.com/tutorials/certifications/e08bf433-59a3-437c-9d55-22c45a226f5f"
+  },
+  {
+    "name": "Alibaba Cloud Relational Database Specialty Certification",
+    "issuedBy": "Alibaba Cloud",
+    "issueYear": "20 Jan 2024",
+    "expirationYear": "20 Jan 2026",
+    "credentialID": "SPEC0520100106744",
+    "verificationLink": "https://edu.alibabacloud.com/clouder/Certificate/search?type=1&num=SPEC0520100106744"
+  },
+  {
+    "name": "Full Stack Observability Practitioner Exam",
+    "issuedBy": "New Relic",
+    "issueYear": "22 Jan 2024",
+    "expirationYear": "22 Jan 2026",
+    "credentialID": "",
+    "verificationLink": "https://credentials.newrelic.com/7afc3d3e-c163-4128-a4d2-459726194220#gs.3evo9q",
+    "description": "This exam is aimed at people that have either attended New Relic's 2 day Full Stack Observability workshop or have extensive experience with New Relic."
   }
 ]
