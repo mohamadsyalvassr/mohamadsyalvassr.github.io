@@ -45,6 +45,8 @@ fetch("data/projects.json")
   });
 // Add more fetches for other sections as needed
 
+const button = `<button class="btn btn-link read-more-btn w-100">Show Details</button>`;
+
 // Function to render header section
 function renderHeader(data) {
   return `
@@ -89,11 +91,7 @@ function renderExperience(data) {
             <p class="card-text description" style="display: none;">${
               experience.description
             }</p>
-            ${
-              showReadMoreButton
-                ? '<button class="btn btn-link read-more-btn w-100">Show Details</button>'
-                : ""
-            }
+            ${showReadMoreButton ? button : ""}
           </div>
         </div>
       </div>
@@ -135,11 +133,7 @@ function renderEducation(data) {
           </p>
             <div class="description-container">
             ${detailsHTML}
-            ${
-              showReadMoreButton
-                ? '<button class="btn btn-link read-more-btn w-100">Show Details</button>'
-                : ""
-            }
+            ${showReadMoreButton ? button : ""}
           </div>
           </div>
         </div>
@@ -278,11 +272,7 @@ function renderCertifications(data) {
             <p class="card-text description" style="display: none;">${
               certification.description
             } </p>
-            ${
-              showReadMoreButton
-                ? '<button class="btn btn-link read-more-btn w-100">Show Details</button>'
-                : ""
-            }
+            ${showReadMoreButton ? button : ""}
           </div>`;
     }
 
@@ -331,11 +321,7 @@ function renderProjects(data) {
           <br>${project.startDate} - ${project.endDate} (${duration})</p>
           <div class="description-container">
             ${detailsHTML}
-            ${
-              showReadMoreButton
-                ? '<button class="btn btn-link read-more-btn w-100">Show Details</button>'
-                : ""
-            }
+            ${showReadMoreButton ? button : ""}
           </div>
         </div>
       </div>
