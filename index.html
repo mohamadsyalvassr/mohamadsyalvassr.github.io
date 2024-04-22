@@ -1,744 +1,96 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8" />
+    <meta charset="UTF-8" />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <meta name="description" content="Start your development with me." />
-    <meta name="author" content="Devcrud" />
-    <title>Mohamad Syalva Syalabi Rosyidy</title>
-    <link rel="icon" type="image/x-icon" href="assets/imgs/va logo.png" />
-    <!-- font icons -->
     <link
       rel="stylesheet"
-      href="assets/vendors/themify-icons/css/themify-icons.css"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
     />
-    <!-- Bootstrap + Meyawo main styles -->
-    <link rel="stylesheet" href="assets/css/meyawo.css" />
+    <title>Mohamad Syalva Syalabi Rosyidy</title>
+    <style>
+      .about-me {
+        font-style: italic;
+        color: #555;
+      }
+      .category {
+        display: block; /* Tampilkan kategori secara default */
+      }
+
+      .toggle-btn {
+        margin-bottom: 10px;
+      }
+      .font-size-btn {
+        font-size: 16px; /* Ukuran font awal */
+        width: 30px; /* Lebar tombol */
+        height: 30px; /* Tinggi tombol */
+        cursor: pointer;
+      }
+      .size-btn {
+        font-size: 16px; /* Ukuran font awal */
+        height: 30px; /* Tinggi tombol */
+        cursor: pointer;
+      }
+    </style>
   </head>
+  <body>
+    <div class="container mt-5">
+      <button id="increase-font-size" class="font-size-btn">+</button>
+      <button id="decrease-font-size" class="font-size-btn">-</button>
+      <button id="decrease-font-size" class="size-btn" disabled>Print</button>
+      <button id="decrease-font-size" class="size-btn" disabled>
+        Download Resume
+      </button>
 
-  <body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
-    <!-- Page Navbar -->
-    <nav class="custom-navbar" data-spy="affix" data-offset-top="20">
-      <div class="container">
-        <a class="logo" href="/">MSSR</a>
-        <ul class="nav">
-          <li class="item">
-            <a class="link" href="#home">Home</a>
-          </li>
-          <li class="item">
-            <a class="link" href="#about">About</a>
-          </li>
-          <li class="item">
-            <a class="link" href="#portfolio">Portfolio</a>
-          </li>
-          <li class="item">
-            <a class="link" href="#achievement">Achievement</a>
-          </li>
-          <!-- <li class="item">
-                    <a class="link" href="page/achievement.html">Achievement</a>
-                </li> -->
-          <!-- <li class="item">
-                    <a class="link" href="#blog">Blog</a>
-                </li> -->
-          <li class="item">
-            <a class="link" href="#contact">Contact</a>
-          </li>
-          <li class="item ml-md-3">
-            <a
-              href="https://github.com/mohamadsyalvasr/mohamadsyalvasr.github.io/tree/master/pdf/cv"
-              target="_blank"
-              class="btn btn-primary"
-              >Download CV</a
-            >
-          </li>
-          <!-- <li class="item ml-md-3">
-                    <a href="components.html" class="btn btn-primary">Components</a>
-                </li> -->
-        </ul>
-        <a
-          href="javascript:void(0)"
-          id="nav-toggle"
-          class="hamburger hamburger--elastic"
-        >
-          <div class="hamburger-box">
-            <div class="hamburger-inner"></div>
-          </div>
-        </a>
-      </div>
-    </nav>
-    <!-- End of Page Navbar -->
+      <div id="header"></div>
+      <p id="result"></p>
 
-    <!-- page header -->
-    <header id="home" class="header">
-      <div class="overlay"></div>
-      <div class="header-content container">
-        <h1 class="header-title">
-          <span class="up">HI!</span>
-          <span class="down">I am Syalva</span>
-        </h1>
-        <p class="header-subtitle">
-          Solving problems through technology and innovation.
-        </p>
+      <button class="btn btn-link toggle-btn" data-target="experience">
+        Show Experience
+      </button>
 
-        <a
-          href="page/portfolio.html"
-          class="btn btn-primary rounded"
-          role="button"
-          >Visit My Works</a
-        >
-        <!-- <button class="btn btn-primary">Visit My Works</button> -->
-      </div>
-    </header>
-    <!-- end of page header -->
+      <button class="btn btn-link toggle-btn" data-target="projects">
+        Show Projects
+      </button>
 
-    <!-- about section -->
-    <section class="section pt-0" id="about">
-      <!-- container -->
-      <div class="container text-center">
-        <!-- about wrapper -->
-        <div class="about">
-          <div class="about-img-holder">
-            <img src="assets/imgs/man copy.png" class="about-img" />
-          </div>
-          <div class="about-caption">
-            <p class="section-subtitle">Who Am I ?</p>
-            <h2 class="section-title mb-3">Personal Details</h2>
-            <p>
-              Hi, my name is Mohamad Syalva SR and I hold a Diploma 3 (D3) in
-              Computer Engineering (Politeknik Sukabumi). I have been working as
-              a Web Developer for more than three years. In addition, I also
-              have experience in the field of Digital Marketing, Graphic Design
-              and Teaching. <br /><br />A few interesting things about me. I
-              love to watching Anime (my favorite is One Piece). I love to
-              simulation games and first-person shooters. Lasty, I love
-              learning. Every day I push myself to learn something new, whether
-              that be about cloud computing, automation software, software
-              engineering or cybersecurity.
-              <!-- <br><br>Do you want to work together? Please reach out to me by e-mail. -->
-              <br /><br /><a
-                href="page/credential.html?title=AWS%20Certified%20Cloud%20Practitioner&type=certification"
-                target="_blank"
-                rel="noopener noreferrer"
-                ><img
-                  src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
-                  alt="AWS Certified Cloud Practitioner"
-                  class="icon"
-                  style="width: 60px" /></a
-              ><a
-                href="page/credential.html?title=ACP%20Cloud%20Computing%20Certification&type=certification"
-                target="_blank"
-                rel="noopener noreferrer"
-                ><img
-                  src="assets/imgs/cert/acp-cloud-computing.png"
-                  alt="ACA Cloud Comptuing"
-                  class="icon"
-                  style="width: 60px" /></a
-              ><a
-                href="page/credential.html?title=Oracle%20Cloud%20Infrastructure%202022%20Certified%20Foundations%20Associate&type=certification"
-                target="_blank"
-                rel="noopener noreferrer"
-                ><img
-                  src="assets/imgs/cert/OCIF2022CA.png"
-                  alt="Oracle Cloud Infrastructure 2022 Certified Foundations Associate"
-                  class="icon"
-                  style="width: 60px" /></a
-              ><a
-                href="page/credential.html?title=Remote%20Work%20Professional%20Certification%20-%20RWPC%E2%84%A2&type=certification"
-                target="_blank"
-                rel="noopener noreferrer"
-                ><img
-                  src="https://images.credly.com/size/340x340/images/ea2c9f2e-b7e1-4a5a-a82e-7e94b67b35bd/image.png"
-                  alt="Remote Work Professional Certification - RWPC™"
-                  class="icon"
-                  style="width: 60px"
-              /></a>
-              <a
-                href="page/achievement.html"
-                class="btn-sm btn-rounded btn btn-primary"
-                >25+<br />more</a
-              >
-              <br /><a
-                href="https://github.com/mohamadsyalvasr/mohamadsyalvasr.github.io/tree/master/pdf/cv"
-                target="_blank"
-                class="rounded btn btn-outline-primary mt-4"
-                >Download CV</a
-              >
-            </p>
-          </div>
-        </div>
-        <!-- end of about wrapper -->
-      </div>
-      <!-- end of container -->
-    </section>
-    <!-- end of about section -->
+      <button class="btn btn-link toggle-btn" data-target="education">
+        Show Education
+      </button>
 
-    <!-- service section -->
-    <section class="section" id="interest">
-      <div class="container text-center">
-        <p class="section-subtitle">
-          Take a look at some of the things I love working on.
-        </p>
-        <h6 class="section-title mb-6">Areas of Interest</h6>
-        <!-- row -->
-        <div class="row">
-          <div class="col-md-6 col-lg-3">
-            <div class="service-card">
-              <div class="body">
-                <img
-                  src="assets/imgs/icons8-teamwork.svg"
-                  alt="ini text alternative"
-                  class="icon"
-                />
-                <h6 class="title">Collaboration</h6>
-                <p class="subtitle">
-                  I enjoy working with others to achieve a common goal.<br /><br />
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3">
-            <div class="service-card">
-              <div class="body">
-                <img
-                  src="assets/imgs/icons8-cloud-compute.svg"
-                  alt="ini text alternative"
-                  class="icon"
-                />
-                <h6 class="title">Cloud Computing</h6>
-                <p class="subtitle">
-                  I am interested in cloud computing technology and understand
-                  its benefits.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3">
-            <div class="service-card">
-              <div class="body">
-                <img
-                  src="assets/imgs/icons8-source-code.svg"
-                  alt="ini text alternative"
-                  class="icon"
-                />
-                <h6 class="title">Development</h6>
-                <p class="subtitle">
-                  I enjoy learning new programming languages and am always
-                  looking for ways to improve the quality of the products or
-                  applications I create.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3">
-            <div class="service-card">
-              <div class="body">
-                <img
-                  src="assets/imgs/icons8-vector.svg"
-                  alt="ini text alternative"
-                  class="icon"
-                />
-                <h6 class="title">Graphic Design</h6>
-                <p class="subtitle">
-                  I am interested in visual art and have the ability to create
-                  visually appealing and effective graphic designs.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- end of row -->
-        <!-- row -->
-        <div class="row" style="margin-top: 20px">
-          <div class="col-md-6 col-lg-3">
-            <div class="service-card">
-              <div class="body">
-                <img
-                  src="assets/imgs/icons8-teacher.svg"
-                  alt="ini text alternative"
-                  class="icon"
-                />
-                <h6 class="title">Coaching</h6>
-                <p class="subtitle">
-                  I enjoy assisting individuals or teams to reach their full
-                  potential and make informed decisions to achieve their
-                  objectives.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3">
-            <div class="service-card">
-              <div class="body">
-                <img
-                  src="assets/imgs/icons8-ads.svg"
-                  alt="ini text alternative"
-                  class="icon"
-                />
-                <h6 class="title">Digital Marketing</h6>
-                <p class="subtitle">
-                  I understand digital marketing strategies and want to continue
-                  to learn how to utilize them to their fullest potential.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3">
-            <div class="service-card">
-              <div class="body">
-                <img
-                  src="assets/imgs/icons8-administrator.svg"
-                  alt="ini text alternative"
-                  class="icon"
-                />
-                <h6 class="title">Server Administrator</h6>
-                <p class="subtitle">
-                  I am interested in server technology and want to continue
-                  learning about how to maximize its use.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3">
-            <div class="service-card">
-              <div class="body">
-                <img
-                  src="assets/imgs/icons8-freelance.svg"
-                  alt="ini text alternative"
-                  class="icon"
-                />
-                <h6 class="title">Freelance Project</h6>
-                <p class="subtitle">
-                  What can I Do ? Check my services <br /><br />
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- end of row -->
-      </div>
-    </section>
-    <!-- end of service section -->
+      <button
+        class="btn btn-link toggle-btn"
+        data-target="organizationalExperience"
+      >
+        Show Organizational Experience
+      </button>
 
-    <!-- service section -->
-    <section class="section" id="service">
-      <div class="container text-center">
-        <p class="section-subtitle">What I Do ?</p>
-        <h6 class="section-title mb-6">Freelance Service</h6>
-        <!-- row -->
-        <div class="row">
-          <div class="col-md-6 col-lg-3">
-            <div class="service-card">
-              <div class="body">
-                <img
-                  src="assets/imgs/pencil-case.svg"
-                  alt="ini text alternative"
-                  class="icon"
-                />
-                <h6 class="title">Graphic Designs</h6>
-                <p class="subtitle">
-                  Custom visual design solutions for your brand.
-                  <br /><br /><a
-                    href="javascript:void(0)"
-                    target="_blank"
-                    class="btn btn-sm btn-outline-primary rounded"
-                    role="button"
-                    >Read More</a
-                  >
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3">
-            <div class="service-card">
-              <div class="body">
-                <img
-                  src="assets/imgs/responsive.svg"
-                  alt="ini text alternative"
-                  class="icon"
-                />
-                <h6 class="title">Landing Pages</h6>
-                <p class="subtitle">
-                  Attractive, responsive, and effective landing pages.
-                  <br /><br /><a
-                    href="javascript:void(0)"
-                    target="_blank"
-                    class="btn btn-sm btn-outline-primary rounded"
-                    role="button"
-                    >Read More</a
-                  >
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3">
-            <div class="service-card">
-              <div class="body">
-                <img
-                  src="assets/imgs/icons8-source-code.svg"
-                  alt="ini text alternative"
-                  class="icon"
-                />
-                <h6 class="title">Software Development</h6>
-                <p class="subtitle">
-                  Custom software solutions for your business needs.
-                  <br /><br /><a
-                    href="javascript:void(0)"
-                    target="_blank"
-                    class="btn btn-sm btn-outline-primary rounded"
-                    role="button"
-                    >Read More</a
-                  >
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3">
-            <div class="service-card">
-              <div class="body">
-                <img
-                  src="assets/imgs/icons8-view-more.svg"
-                  alt="ini text alternative"
-                  class="icon"
-                />
-                <h6 class="title">Other Services</h6>
-                <p class="subtitle">
-                  Do you want to work together? Please reach out to me by
-                  e-mail.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- end of row -->
-      </div>
-    </section>
-    <!-- end of service section -->
+      <button class="btn btn-link toggle-btn" data-target="skillsAchievements">
+        Show Skills Achievements
+      </button>
 
-    <!-- portfolio section -->
-    <section class="section" id="portfolio">
-      <div class="container text-center">
-        <p class="section-subtitle">What I Did ?</p>
-        <h6 class="section-title mb-6">Portfolio</h6>
-        <!-- row -->
-        <div class="row">
-          <div class="col-md-4">
-            <a href="https://github.com/bumicode/erp" class="portfolio-card">
-              <img
-                src="assets/imgs/bumicode-erp.png"
-                class="portfolio-card-img"
-                alt="ini text alternative"
-              />
-              <span class="portfolio-card-overlay">
-                <span class="portfolio-card-caption">
-                  <h4>BUM;CODE ERP<br />(Enterprise Resource Planning)</h4>
-                  <p class="font-weight-normal">Category: Upcoming</p>
-                </span>
-              </span>
-            </a>
-          </div>
-          <div class="col-md-4">
-            <a href="https://belipedia.my.id/ads/bouna" class="portfolio-card">
-              <img
-                class="portfolio-card-img"
-                src="assets/imgs/landing/bouna.jpg"
-                class="img-responsive rounded"
-                alt="ini text alternative"
-              />
-              <span class="portfolio-card-overlay">
-                <span class="portfolio-card-caption">
-                  <h4>Bouna Slipers</h4>
-                  <p class="font-weight-normal">Category: Landing Page</p>
-                </span>
-              </span>
-            </a>
-          </div>
-          <div class="col-md-4">
-            <a href="https://www.tokopedia.com/enddee" class="portfolio-card">
-              <img
-                class="portfolio-card-img"
-                src="assets/imgs/case/yae-sakura.jpg"
-                class="img-responsive rounded"
-                alt="ini text alternative"
-              />
-              <span class="portfolio-card-overlay">
-                <span class="portfolio-card-caption">
-                  <h4>Case Design - Yae Sakura</h4>
-                  <p class="font-weight-normal">Category: Design</p>
-                </span>
-              </span>
-            </a>
-          </div>
-        </div>
-        <!-- end of row -->
+      <button class="btn btn-link toggle-btn" data-target="certifications">
+        Show Certifications
+      </button>
 
-        <br />
-        <a
-          href="page/portfolio.html"
-          class="btn btn-outline-primary rounded"
-          role="button"
-          >More Projects</a
-        >
-      </div>
-      <!-- end of container -->
-    </section>
-    <!-- end of portfolio section -->
-
-    <!-- achievement section -->
-    <section class="section" id="achievement">
-      <div class="container text-center">
-        <p class="section-subtitle">
-          Unleashing my Potential, Celebrating my Achievements
-        </p>
-        <h6 class="section-title mb-6">Recent Achievements</h6>
-        <!-- row -->
-        <div class="row">
-          <div id="card-container" class="filters-content"></div>
-        </div>
-        <!-- end of row -->
-        <br />
-        <a
-          href="page/achievement.html"
-          class="btn btn-outline-primary rounded"
-          role="button"
-          >More Achievements</a
-        >
-      </div>
-    </section>
-    <!-- end of achievement section -->
-
-    <!-- section -->
-    <section class="section-sm bg-primary" id="contact">
-      <!-- container -->
-      <div class="container text-center text-sm-left">
-        <!-- row -->
-        <div class="row align-items-center">
-          <div class="col-sm offset-md-1 mb-4 mb-md-0">
-            <h6 class="title text-light">Reach Out to me!</h6>
-            <p class="m-0 text-light">
-              Feel free to reach out to me for any reason.
-              <br /><br />
-              <b>WhatsApp : </b
-              ><a href="https://s.id/mssr-wa" style="color: white"
-                >mohamadsyalvasr</a
-              ><br />
-              <b>Email : </b
-              ><a href="mailto:mohamadsyalvasr@gmail.com" style="color: white"
-                >mohamadsyalvasr@gmail.com</a
-              ><br />
-              <b>LinkedIn : </b
-              ><a
-                href="https://www.linkedin.com/in/mohamadsyalvasr/"
-                style="color: white"
-                >@mohamadsyalvasr</a
-              ><br />
-              <b>GitHub : </b
-              ><a
-                href="https://www.github.com/mohamadsyalvasr/"
-                style="color: white"
-                >@mohamadsyalvasr</a
-              >
-            </p>
-          </div>
-          <div class="col-sm offset-sm-2 offset-md-3">
-            <a
-              href="https://s.id/mssr-wa"
-              class="btn btn-lg my-font btn-light rounded"
-              role="button"
-              >Contact Me</a
-            >
-            <!-- <button class="btn btn-lg my-font btn-light rounded">Hire Me</button> -->
-          </div>
-        </div>
-        <!-- end of row -->
-      </div>
-      <!-- end of container -->
-    </section>
-    <!-- end of section -->
-
-    <section class="section" id="interest">
-      <div class="container text-center">
-        <p id="quote-by" class="section-subtitle"></p>
-        <h4 id="quote-text" class="section-title mb-6"></h4>
-      </div>
-    </section>
-
-    <!-- footer -->
-    <div class="container">
-      <footer class="footer">
-        <p class="mb-0">
-          Copyright
-          <script>
-            document.write(new Date().getFullYear());
-          </script>
-          &copy; Themes by
-          <a href="http://www.devcrud.com">DevCRUD</a> Distribution
-          <a href="https://themewagon.com">ThemeWagon</a>
-        </p>
-        <div class="social-links text-right m-auto ml-sm-auto">
-          <a href="https://facebook.com/mohamadsyalvasr" class="link"
-            ><i class="ti-facebook"></i
-          ></a>
-          <a href="https://twitter.com/mohamadsyalvasr" class="link"
-            ><i class="ti-twitter-alt"></i
-          ></a>
-          <a href="https://instagram.com/mohamadsyalvasr" class="link"
-            ><i class="ti-instagram"></i
-          ></a>
-        </div>
-      </footer>
+      <div class="category" id="experience" style="display: none"></div>
+      <div class="category" id="projects" style="display: none"></div>
+      <div class="category" id="education" style="display: none"></div>
+      <div
+        class="category"
+        id="organizationalExperience"
+        style="display: none"
+      ></div>
+      <div class="category" id="skillsAchievements" style="display: none"></div>
+      <div class="category" id="certifications" style="display: none"></div>
+      <!-- Add more sections as needed -->
     </div>
-    <!-- end of page footer -->
 
-    <!-- core  -->
-    <script src="assets/vendors/jquery/jquery-3.4.1.js"></script>
-    <script src="assets/vendors/bootstrap/bootstrap.bundle.js"></script>
-
-    <!-- bootstrap 3 affix -->
-    <script src="assets/vendors/bootstrap/bootstrap.affix.js"></script>
-
-    <!-- Meyawo js -->
-    <script src="assets/js/meyawo.js"></script>
-
-    <script>
-      // fungsi untuk mengambil data dari file JSON
-      function getData() {
-        const xhr = new XMLHttpRequest();
-        xhr.open("GET", "quotes.json", true);
-        xhr.onload = function () {
-          if (this.status === 200) {
-            const data = JSON.parse(this.responseText);
-            const text = data[Math.floor(Math.random() * data.length)];
-            document.getElementById("quote-text").textContent =
-              '"' + text.quotes + '"';
-            document.getElementById("quote-by").textContent = text.by;
-          }
-        };
-        xhr.send();
-      }
-
-      // panggil fungsi getData saat halaman dimuat ulang
-      window.onload = getData;
-    </script>
-
-    <script>
-      var taglines = [
-        "Designing a better tomorrow.",
-        "Creating memorable experiences through design.",
-        "Innovative solutions, exceptional design.",
-        "Bringing ideas to life through creativity.",
-        "Design that tells a story.",
-        "Transforming ideas into stunning visuals.",
-        "Crafting beautiful designs that inspire.",
-        "Design that exceeds expectations.",
-        "Pushing boundaries with every design.",
-        "Coding solutions, one line at a time.",
-        "Transforming complex problems into elegant solutions.",
-        "Innovative strategies for digital success.",
-        "Boosting your online presence to new heights.",
-        "Building secure and scalable cloud infrastructure.",
-        "Seamless cloud solutions for your business needs.",
-        "Crafting exceptional digital experiences with code.",
-        "Driving results through data-driven marketing.",
-        "Empowering your business with cloud technology.",
-        "Solving problems through technology and innovation.",
-      ];
-
-      var taglineElements = document.getElementsByClassName("header-subtitle");
-      var tagline = taglines[Math.floor(Math.random() * taglines.length)];
-
-      for (var i = 0; i < taglineElements.length; i++) {
-        taglineElements[i].innerHTML = tagline;
-      }
-
-      // Card Achievements
-      var cardContainer = document.getElementById("card-container");
-
-      // fungsi untuk membuat card secara dinamis
-      function createCards(data) {
-        // hapus card lama sebelum membuat yang baru
-        cardContainer.innerHTML = "";
-
-        var rowDiv = document.createElement("div");
-        rowDiv.classList.add("row");
-
-        // buat card secara dinamis menggunakan DOM
-        var c = 0;
-        for (var i = 0; i < data.length; i++) {
-          // cek apakah data sesuai dengan filter saat ini
-          if (c <= 3) {
-            c++;
-            var colDiv = document.createElement("div");
-            colDiv.classList.add("col-md-6", "col-lg-3");
-
-            var serviceCard = document.createElement("div");
-            serviceCard.classList.add("service-card");
-
-            var bodyDiv = document.createElement("div");
-            bodyDiv.classList.add("body");
-
-            var cardImage = document.createElement("img");
-            cardImage.classList.add("icon");
-            cardImage.src = data[i].image;
-            cardImage.alt = "ini text alternative";
-
-            var titleH6 = document.createElement("h6");
-            titleH6.classList.add("title");
-            var titleText = data[i].title.substring(0, 40);
-            if (data[i].title.length > 40) {
-              titleText += " ...";
-            }
-
-            certificateDate = new Date(data[i].date);
-            options = { month: "long", day: "numeric", year: "numeric" };
-            formattedDate = certificateDate.toLocaleDateString(
-              "en-US",
-              options
-            );
-
-            titleH6.innerHTML =
-              `<a
-              href="page/credential.html?title=` +
-              data[i].title +
-              `&type=` +
-              data[i].type +
-              `" target="_blank"
-              >` +
-              titleText +
-              `</a>`;
-
-            var subtitleP = document.createElement("p");
-            subtitleP.classList.add("subtitle");
-            subtitleP.innerHTML =
-              `I successfully completed this ` +
-              data[i].type +
-              " on " +
-              formattedDate;
-
-            bodyDiv.appendChild(cardImage);
-            bodyDiv.appendChild(titleH6);
-            bodyDiv.appendChild(subtitleP);
-            serviceCard.appendChild(bodyDiv);
-            colDiv.appendChild(serviceCard);
-            rowDiv.appendChild(colDiv);
-          }
-        }
-        cardContainer.appendChild(rowDiv);
-      }
-
-      // gunakan AJAX untuk mengambil data dari file JSON
-      var xhr = new XMLHttpRequest();
-      xhr.onreadystatechange = function () {
-        if (this.readyState == 4 && this.status == 200) {
-          // simpan data dari file JSON ke variabel
-          data = JSON.parse(this.responseText);
-          createCards(data);
-        }
-      };
-      xhr.open("GET", "page/data-ach.json", true);
-      xhr.send();
-    </script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="app.js"></script>
   </body>
 </html>

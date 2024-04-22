@@ -1,0 +1,186 @@
+[
+  {
+    "name": "BUMICODE ERP",
+    "startDate": "Nov 2022",
+    "endDate": "Present",
+    "url": "https://github.com/bumicode/erp",
+    "role": "Self-Project - Full Stack Developer",
+    "details": [
+      "Analyzing business processes based on general Company needs.",
+      "Create and Design Accounting, Sales, CRM, HR, and Inventory features.",
+      "Tech stack: Laravel, Redis, PostgreSQL, Git"
+    ]
+  },
+  {
+    "name": "Pertamina Gas Negara (PGN)",
+    "startDate": "Mar 2024",
+    "endDate": "May 2024",
+    "url": "",
+    "role": "Tech Lead / Backend Developer",
+    "details": [
+      "Develop a Content Management System (CMS) and Application Programming Interface (API) to manage PGN customer transactions, which will be interconnected with various APIs such as MyPertamina and LinkAja."
+    ]
+  },
+  {
+    "name": "Perusahaan Listrik Negara (PLN)",
+    "startDate": "Jan 2024",
+    "endDate": "Present",
+    "url": "",
+    "role": "Backend Developer",
+    "details": [
+      "Resolve technical issues related to the APIs, such as fixing bugs or addressing security issues.",
+      "Work closely with the team to understand client needs and develop suitable solutions."
+    ]
+  },
+  {
+    "name": "Golden Rama - Hotel Microservices",
+    "startDate": "Jan 2024",
+    "endDate": "Present",
+    "url": "https://goldenrama.com/",
+    "role": "Backend Developer",
+    "details": [
+      "In the Hotel Microservices project, I played a pivotal role in architecting and implementing a cutting-edge microservices solution using the Go-Gin framework. This initiative aimed to modernize and optimize various functionalities within the hotel management domain.",
+      "Tech stack: <ul><li>Go-Gin: Leveraging the Go programming language and the Gin framework, we ensured the development of high-performance and scalable microservices. This choice facilitated rapid development, enabling us to create responsive and efficient microservices tailored for the hotel management system.</li><li>MySQL: The project seamlessly integrated MySQL as the relational database management system, guaranteeing robust data management, retrieval, and maintaining relational integrity for flawless hotel data operations.</li><li>ECR (Elastic Container Registry): Docker container images were securely stored and managed using ECR, allowing for a containerized deployment approach. This strategy improved scalability, deployment consistency, and efficiency across the microservices.</li><li>EKS (Elastic Kubernetes Service): The microservices found their deployment on EKS, utilizing Kubernetes orchestration for automated scaling, effective load balancing, and streamlined container orchestration.</li></ul>",
+      "This project not only demonstrated my proficiency in the specified technologies but also showcased my ability to design and implement microservices tailored for the hotel management sector. The outcome was an innovative and scalable solution contributing to the enhancement and efficiency of hotel management operations."
+    ]
+  },
+  {
+    "name": "Golden Rama - Tour Microservices",
+    "startDate": "Nov 2023",
+    "endDate": "Present",
+    "url": "https://goldenrama.com/",
+    "role": "Backend Developer",
+    "details": [
+      "As the driving force behind the Tour Microservices project, I spearheaded the development of a dynamic and efficient microservices architecture using the Go-Gin framework. This initiative aimed to revolutionize and streamline various functionalities within the tour management domain.",
+      "Tech stack: <ul><li>Go-Gin: Leveraging the Go programming language and the Gin framework, we ensured the development of high-performance and scalable microservices. This choice facilitated rapid development, enabling us to create responsive and efficient microservices tailored for the hotel management system.</li><li>MySQL: The project seamlessly integrated MySQL as the relational database management system, guaranteeing robust data management, retrieval, and maintaining relational integrity for flawless hotel data operations.</li><li>ECR (Elastic Container Registry): Docker container images were securely stored and managed using ECR, allowing for a containerized deployment approach. This strategy improved scalability, deployment consistency, and efficiency across the microservices.</li><li>EKS (Elastic Kubernetes Service): The microservices found their deployment on EKS, utilizing Kubernetes orchestration for automated scaling, effective load balancing, and streamlined container orchestration.</li></ul>",
+      "This project not only showcased my expertise in the specified technologies but also demonstrated my ability to architect and implement microservices tailored for the tour management sector. The result was a scalable and responsive solution contributing to an optimized and streamlined tour management system."
+    ]
+  },
+  {
+    "name": "Golden Rama - Flight Microservices",
+    "startDate": "Aug 2023",
+    "endDate": "Present",
+    "url": "https://goldenrama.com/",
+    "role": "Backend Developer",
+    "details": [
+      "In the Flight Microservices project, I led the development and implementation of a robust and scalable microservices architecture using the Lumen 10 framework. This innovative solution was designed to streamline and enhance various aspects of the flight management system.",
+      "Tech stack: <ul><li>Lumen 10: Leveraging the power of the Lumen 10 framework, we ensured rapid development and efficient performance in handling the complex functionalities of the microservices.</li><li>MySQL: The project seamlessly integrated MySQL as the relational database management system, guaranteeing robust data management, retrieval, and maintaining relational integrity for flawless hotel data operations.</li><li>ECR (Elastic Container Registry): Docker container images were securely stored and managed using ECR, allowing for a containerized deployment approach. This strategy improved scalability, deployment consistency, and efficiency across the microservices.</li><li>EKS (Elastic Kubernetes Service): The microservices found their deployment on EKS, utilizing Kubernetes orchestration for automated scaling, effective load balancing, and streamlined container orchestration.</li></ul>",
+      "This project not only showcased my proficiency in the specified technologies but also demonstrated my ability to design and implement microservices that are both resilient and adaptable, contributing to an optimized flight management system."
+    ]
+  },
+  {
+    "name": "Ganjar Mahfud Microtargeting",
+    "startDate": "Jul 2023",
+    "endDate": "Aug 2023",
+    "url": "https://ganjarmahfud.app/",
+    "role": "Backend Developer",
+    "details": [
+      "Resolve technical issues related to the APIs, such as fixing bugs or addressing security issues.",
+      "Work closely with the team to understand client needs and develop suitable solutions.",
+      "Tech stack: Laravel, Redis, PostgreSQL, Git, GraphQL"
+    ]
+  },
+  {
+    "name": "Ganjar Mahfud App",
+    "startDate": "Jul 2023",
+    "endDate": "Aug 2023",
+    "url": "https://ganjarmahfud.app/",
+    "role": "Backend Developer",
+    "details": [
+      "Resolve technical issues related to the APIs, such as fixing bugs or addressing security issues.",
+      "Work closely with the team to understand client needs and develop suitable solutions.",
+      "Tech stack: Laravel, Redis, PostgreSQL, Git"
+    ]
+  },
+  {
+    "name": "Clinic's Information System",
+    "startDate": "Apr 2023",
+    "endDate": "Jul 2023",
+    "url": "",
+    "role": "Freelance Full Stack Developer",
+    "details": [
+      "Analyzing business processes based on the clinic’s needs.",
+      "Tech stack: Laravel, MySQL, Git, Bootstrap CSS"
+    ]
+  },
+  {
+    "name": "JDIH DPRD Kota Sukabumi",
+    "startDate": "Jan 2023",
+    "endDate": "Mar 2023",
+    "url": "https://jdih-dprd.sukabumikota.go.id/",
+    "role": "WordPress Developer",
+    "details": [
+      "Analyzing business processes based on needs.",
+      "Work closely with the team to understand client needs and develop suitable solutions",
+      "Tech stack: WordPress, MySQL"
+    ]
+  },
+  {
+    "name": "Landing Page Bouna Slipper",
+    "startDate": "Jan 2023",
+    "endDate": "Feb 2023",
+    "url": "https://belipedia.my.id/ads/bouna/",
+    "role": "WordPress Developer",
+    "details": [
+      "Analyzing business processes based on needs.",
+      "Work closely with the team to understand client needs and develop suitable solutions",
+      "Tech stack: WordPress, Elementor, Adobe Photoshop"
+    ]
+  },
+  {
+    "name": "Warehouse Information System",
+    "startDate": "Apr 2022",
+    "endDate": "May 2022",
+    "url": "",
+    "role": "Desktop Developer",
+    "details": [
+      "Analyzing business processes based on company needs.",
+      "Resolve technical issues related to the website, such as fixing bugs or addressing security issues.",
+      "Tech stack: Laravel, MySQL, Windows Server, VB6"
+    ]
+  },
+  {
+    "name": "Sistem Informasi Beasiswa DISPORA Kabupaten Bogor",
+    "startDate": "Feb 2022",
+    "endDate": "Aug 2022",
+    "url": "https://beasiswapancakarsa.bogorkab.go.id/",
+    "role": "Freelance Full Stack Developer",
+    "details": [
+      "Analyzing the scholarship process based on the needs.",
+      "Resolve technical issues related to the website, such as fixing bugs or addressing security issues.",
+      "Tech stack: Laravel, Tailwind CSS, MySQL"
+    ]
+  },
+  {
+    "name": "Widescape Management, Sobat Technopreneur",
+    "startDate": "May 2021",
+    "endDate": "May 2022",
+    "url": "https://sobattechnopreneur.com/",
+    "role": "Full Stack Developer",
+    "details": [
+      "Analyzing business processes based on company needs.",
+      "Resolve technical issues related to the website, such as fixing bugs or addressing security issues.",
+      "Tech stack: Laravel, Bootstrap CSS, MySQL"
+    ]
+  },
+  {
+    "name": "Village Information System",
+    "startDate": "Nov 2019",
+    "endDate": "Aug 2020",
+    "url": "https://sidsaiagi.azurewebsites.net/",
+    "role": "Freelance Full Stack Developer",
+    "details": [
+      "Analyzing business processes based on village needs.",
+      "Work closely with the team to understand client needs and develop suitable solutions.",
+      "Tech stack: CodeIgniter, Bootstrap CSS, MySQL"
+    ]
+  },
+  {
+    "name": "Aplikasi Potensi Wilayah dengan Sistem Informasi Geografis Berbasis Web dan Mobile",
+    "startDate": "Sep 2019",
+    "endDate": "Feb 2020",
+    "url": "http://ponwil-sukabumikab.web.id/",
+    "role": "Freelance Full Stack Developer",
+    "details": ["Tech stack: Laravel, Bootstrap CSS, MySQL"]
+  }
+]
